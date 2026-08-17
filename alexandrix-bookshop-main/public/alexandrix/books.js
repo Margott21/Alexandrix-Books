@@ -1,0 +1,25 @@
+// Shared catalog data
+window.books = [
+  { id:1, title:"Dom Quixote", author:"Miguel de Cervantes", genre:"Clássico", year:1605, color:["#3a2c5e","#1a1240"], desc:"A jornada do cavaleiro errante que confunde moinhos com gigantes — uma das obras fundadoras da literatura moderna." },
+  { id:2, title:"1984", author:"George Orwell", genre:"Ficção", year:1949, color:["#5e1c1c","#1c0a0a"], desc:"Distopia visionária sobre vigilância, totalitarismo e a manipulação da verdade." },
+  { id:3, title:"O Pequeno Príncipe", author:"Antoine de Saint-Exupéry", genre:"Infantojuvenil", year:1943, color:["#1c4a5e","#0a1a30"], desc:"Uma fábula poética sobre amizade, perda e o essencial invisível aos olhos." },
+  { id:4, title:"Cem Anos de Solidão", author:"Gabriel García Márquez", genre:"Realismo Mágico", year:1967, color:["#5e3a1c","#2a1808"], desc:"A saga da família Buendía em Macondo — pilar do realismo mágico latino-americano." },
+  { id:5, title:"Orgulho e Preconceito", author:"Jane Austen", genre:"Romance", year:1813, color:["#4a1c4a","#1a0a20"], desc:"Elizabeth Bennet e Mr. Darcy: um clássico sobre classe, amor e julgamentos." },
+  { id:6, title:"Crime e Castigo", author:"Fiódor Dostoiévski", genre:"Clássico", year:1866, color:["#2c2c2c","#0a0a0a"], desc:"Raskólnikov, culpa e redenção nas ruas sombrias de São Petersburgo." },
+  { id:7, title:"O Senhor dos Anéis", author:"J.R.R. Tolkien", genre:"Fantasia", year:1954, color:["#1c3a1c","#0a1a0a"], desc:"A jornada épica de Frodo para destruir o Um Anel e salvar a Terra-média." },
+  { id:8, title:"Duna", author:"Frank Herbert", genre:"Ficção Científica", year:1965, color:["#5e3a0a","#2a1a00"], desc:"Política, religião e ecologia no deserto de Arrakis — o universo definitivo da ficção científica." },
+  { id:9, title:"A Metamorfose", author:"Franz Kafka", genre:"Ficção", year:1915, color:["#3a3a0a","#1a1a00"], desc:"Gregor Samsa desperta transformado em inseto — uma alegoria sobre alienação e família." },
+  { id:10, title:"O Nome do Vento", author:"Patrick Rothfuss", genre:"Fantasia", year:2007, color:["#1c2a5e","#0a1230"], desc:"Kvothe narra sua própria lenda — magia, música e mistério em um mundo vivo." },
+  { id:11, title:"A Revolução dos Bichos", author:"George Orwell", genre:"Ficção", year:1945, color:["#5e1c3a","#1a0a18"], desc:"Sátira política em forma de fábula — todos os animais são iguais, mas alguns são mais iguais." },
+  { id:12, title:"Fundação", author:"Isaac Asimov", genre:"Ficção Científica", year:1951, color:["#0a3a5e","#001830"], desc:"Hari Seldon e a psico-história tentam salvar a civilização galáctica do colapso." },
+  { id:13, title:"O Apanhador no Campo de Centeio", author:"J.D. Salinger", genre:"Romance", year:1951, color:["#5e2c1c","#1a0a08"], desc:"Holden Caulfield vagueia por Nova York em um retrato cru da adolescência." },
+  { id:14, title:"Moby Dick", author:"Herman Melville", genre:"Clássico", year:1851, color:["#0a2c4a","#001020"], desc:"O Capitão Ahab caça a baleia branca — uma obsessão que move o oceano e o destino." },
+  { id:15, title:"Sapiens", author:"Yuval Noah Harari", genre:"Não-Ficção", year:2011, color:["#5e4a1c","#2a1c08"], desc:"Uma breve história da humanidade — das savanas africanas à era digital." },
+  { id:16, title:"O Conde de Monte Cristo", author:"Alexandre Dumas", genre:"Clássico", year:1844, color:["#3a1c5e","#180a2a"], desc:"Vingança, paciência e justiça — Edmond Dantès retorna como o conde misterioso." },
+  { id:17, title:"Berserk", author:"Kentaro Miura", genre:"Mangás", year:1989, color:["#2a0a0a","#0a0000"], desc:"A saga sombria de Guts, o Espadachim Negro, em um mundo medieval de demônios e destino." },
+  { id:18, title:"One Piece", author:"Eiichiro Oda", genre:"Mangás", year:1997, color:["#0a3a5e","#001830"], desc:"Monkey D. Luffy e sua tripulação navegam em busca do lendário tesouro One Piece." },
+  { id:19, title:"Death Note", author:"Tsugumi Ohba", genre:"Mangás", year:2003, color:["#1a1a1a","#000000"], desc:"Um estudante encontra um caderno capaz de matar qualquer pessoa cujo nome seja escrito nele." },
+  { id:20, title:"Watchmen", author:"Alan Moore", genre:"HQs", year:1986, color:["#3a1c1c","#180808"], desc:"Heróis aposentados investigam o assassinato de um colega em uma América alternativa." },
+  { id:21, title:"Sandman", author:"Neil Gaiman", genre:"HQs", year:1989, color:["#2c1c4a","#0a081a"], desc:"Sonho, o senhor do reino dos sonhos, retorna após décadas de cativeiro." },
+  { id:22, title:"Maus", author:"Art Spiegelman", genre:"HQs", year:1986, color:["#3a3a3a","#0a0a0a"], desc:"A história do Holocausto narrada através de ratos e gatos — vencedora do Pulitzer." }
+];

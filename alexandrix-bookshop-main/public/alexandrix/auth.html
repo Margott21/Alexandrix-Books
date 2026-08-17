@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Entrar — Alexandrix Books</title>
+<link rel="stylesheet" href="./style.css" />
+<style>
+  .auth-wrap { min-height: 100vh; display: grid; place-items: center; padding: 40px 20px; position: relative; z-index: 1; }
+  .auth-card { width: 100%; max-width: 440px; background: var(--panel); border: 1px solid var(--panel-border); border-radius: 18px; padding: 36px 30px; backdrop-filter: blur(14px); box-shadow: var(--glow); }
+  .auth-brand { display: flex; align-items: center; gap: 12px; justify-content: center; margin-bottom: 8px; }
+  .auth-brand img { width: 44px; height: 44px; border-radius: 10px; object-fit: cover; }
+  .auth-brand span { font-family: var(--font-display); font-size: 22px; letter-spacing: 3px; }
+  .auth-card h1 { font-family: var(--font-display); font-size: 28px; text-align: center; margin: 14px 0 6px; }
+  .auth-sub { text-align: center; color: var(--muted); margin-bottom: 22px; font-size: 14px; }
+  .auth-tabs { display: flex; background: rgba(255,255,255,0.04); border-radius: 12px; padding: 4px; margin-bottom: 22px; }
+  .auth-tabs button { flex: 1; background: transparent; border: 0; color: var(--muted); padding: 10px; font: inherit; cursor: pointer; border-radius: 8px; transition: all .2s; }
+  .auth-tabs button.active { background: linear-gradient(135deg, rgba(124,184,255,0.25), rgba(124,184,255,0.1)); color: var(--text); box-shadow: 0 0 12px rgba(124,184,255,0.2); }
+  .field { margin-bottom: 14px; }
+  .field label { display: block; font-size: 13px; color: var(--muted); margin-bottom: 6px; }
+  .field input { width: 100%; background: rgba(255,255,255,0.04); border: 1px solid var(--panel-border); border-radius: 10px; padding: 12px 14px; color: var(--text); font: inherit; outline: none; transition: border .2s, box-shadow .2s; }
+  .field input:focus { border-color: var(--accent); box-shadow: 0 0 0 3px rgba(124,184,255,0.15); }
+  .pwd-strength { height: 4px; background: rgba(255,255,255,0.08); border-radius: 3px; overflow: hidden; margin-top: 6px; }
+  .pwd-strength > div { height: 100%; width: 0; background: #ff6b6b; transition: all .3s; }
+  .auth-submit { width: 100%; padding: 13px; border: 0; border-radius: 10px; background: linear-gradient(135deg, #7cb8ff, #4a7fd6); color: #03050f; font-weight: 600; font-size: 15px; cursor: pointer; margin-top: 8px; transition: transform .15s, box-shadow .2s; }
+  .auth-submit:hover { transform: translateY(-1px); box-shadow: 0 6px 20px rgba(124,184,255,0.35); }
+  .auth-submit:disabled { opacity: .5; cursor: not-allowed; transform: none; }
+  .auth-msg { margin-top: 14px; padding: 10px 12px; border-radius: 8px; font-size: 13px; text-align: center; display: none; }
+  .auth-msg.error { background: rgba(255,90,90,0.12); color: #ff9a9a; border: 1px solid rgba(255,90,90,0.3); display: block; }
+  .auth-msg.ok { background: rgba(90,255,150,0.1); color: #8affb2; border: 1px solid rgba(90,255,150,0.25); display: block; }
+  .auth-footer { text-align: center; margin-top: 20px; font-size: 13px; color: var(--muted); }
+  .auth-footer a { color: var(--accent); text-decoration: none; }
+  .check-list { list-style: none; padding: 0; margin: 8px 0 0; font-size: 12px; color: var(--muted); }
+  .check-list li { padding: 2px 0; }
+  .check-list li.ok { color: #8affb2; }
+  .check-list li.ok::before { content: "✓ "; }
+  .check-list li:not(.ok)::before { content: "○ "; }
+</style>
+</head>
+<body>
+  <div class="stars-overlay"></div>
+  <div class="auth-wrap">
+    <div class="auth-card">
+      <div class="auth-brand">
+        <img src="/__l5e/assets-v1/6e33c4cd-b310-4586-bb8e-381400208f48/logo.jpeg" alt="" />
+        <span>ALEXANDRIX</span>
+      </div>
+      <h1 id="authTitle">Bem-vindo de volta</h1>
+      <p class="auth-sub" id="authSub">Entre para acessar sua estante cósmica</p>
+
+      <div class="auth-tabs">
+        <button type="button" data-tab="login" class="active">Entrar</button>
+        <button type="button" data-tab="signup">Criar conta</button>
+      </div>
+
+      <!-- LOGIN -->
+      <form id="loginForm" novalidate>
+        <div class="field">
+          <label for="loginEmail">Email</label>
+          <input id="loginEmail" type="email" required autocomplete="email" placeholder="voce@exemplo.com" />
+        </div>
+        <div class="field">
+          <label for="loginPass">Senha</label>
+          <input id="loginPass" type="password" required autocomplete="current-password" placeholder="••••••••" />
+        </div>
+        <button class="auth-submit" type="submit">Entrar</button>
+        <div class="auth-msg" id="loginMsg"></div>
+      </form>
+
+      <!-- SIGNUP -->
+      <form id="signupForm" novalidate style="display:none">
+        <div class="field">
+          <label for="sName">Nome</label>
+          <input id="sName" type="text" required minlength="2" placeholder="Seu nome" />
+        </div>
+        <div class="field">
+          <label for="sEmail">Email</label>
+          <input id="sEmail" type="email" required autocomplete="email" placeholder="voce@exemplo.com" />
+        </div>
+        <div class="field">
+          <label for="sPass">Senha</label>
+          <input id="sPass" type="password" required autocomplete="new-password" placeholder="Mínimo 8 caracteres" />
+          <div class="pwd-strength"><div id="pwdBar"></div></div>
+          <ul class="check-list" id="pwdChecks">
+            <li data-c="len">Pelo menos 8 caracteres</li>
+            <li data-c="upper">Uma letra maiúscula</li>
+            <li data-c="num">Um número</li>
+            <li data-c="sym">Um símbolo (!@#...)</li>
+          </ul>
+        </div>
+        <div class="field">
+          <label for="sPass2">Confirmar senha</label>
+          <input id="sPass2" type="password" required autocomplete="new-password" placeholder="Repita a senha" />
+        </div>
+        <button class="auth-submit" type="submit" id="signupBtn" disabled>Criar conta</button>
+        <div class="auth-msg" id="signupMsg"></div>
+      </form>
+
+      <div class="auth-footer">
+        <a href="./index.html">← Voltar ao catálogo</a>
+      </div>
+    </div>
+  </div>
+  <script src="./auth.js"></script>
+  <script src="./nav-drag.js"></script>
+</body>
+</html>

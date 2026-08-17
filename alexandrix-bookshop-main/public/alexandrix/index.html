@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Alexandrix Books — Biblioteca Cósmica</title>
+<meta name="description" content="Alexandrix Books — uma biblioteca online com curadoria estelar de obras clássicas e modernas." />
+<link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <div class="stars-overlay"></div>
+
+  <header class="site-header">
+    <a href="#top" class="brand">
+      <img src="./img/WhatsApp Image 2026-04-16 at 21.23.34.jpeg" alt="Alexandrix Books" class="brand-logo" />
+      <div class="brand-text">
+        <span class="brand-name">ALEXANDRIX</span>
+        <span class="brand-sub">BOOKS</span>
+      </div>
+    </a>
+    <nav class="site-nav">
+      <a href="#catalogo">Catálogo</a>
+      <a href="#destaques">Destaques</a>
+      <a href="#generos">Gêneros</a>
+      <a href="./community.html">Comunidade</a>
+      <a href="#sobre">Sobre</a>
+      <a href="./profile.html">Perfil</a>
+      <a href="./auth.html" id="authLink">Entrar</a>
+    </nav>
+    <button class="cta-ghost user-btn" id="openUser" aria-label="Abrir perfil">
+      <span class="user-avatar" id="navAvatar">A</span>
+      <span class="user-btn-label">Perfil</span>
+    </button>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <div class="hero-glow"></div>
+      <div class="hero-content">
+        <span class="eyebrow">Biblioteca cósmica online</span>
+        <h1>Onde cada livro <em>é uma constelação</em>.</h1>
+        <p>Explore milhares de obras — clássicas, modernas e raras — em uma experiência de leitura inspirada na imensidão do universo.</p>
+        <div class="hero-actions">
+          <a href="#catalogo" class="btn-primary">Explorar catálogo</a>
+          <a href="#destaques" class="btn-secondary">Ver destaques</a>
+        </div>
+        <div class="hero-stats">
+          <div><strong id="statBooks">0</strong><span>Livros</span></div>
+          <div><strong id="statAuthors">0</strong><span>Autores</span></div>
+          <div><strong id="statReaders">0</strong><span>Leitores</span></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="search-bar-wrap" id="searchBar">
+      <div class="search-bar">
+        <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="searchInput" type="search" placeholder="Buscar por título, autor ou gênero..." />
+        <select id="genreFilter">
+          <option value="">Todos os gêneros</option>
+        </select>
+      </div>
+    </section>
+
+    <section id="generos" class="genres">
+      <h2 class="section-title">Navegue por gêneros</h2>
+      <div class="genre-chips" id="genreChips"></div>
+    </section>
+
+    <section id="destaques" class="featured">
+      <h2 class="section-title">Destaques estelares</h2>
+      <div class="featured-grid" id="featuredGrid"></div>
+    </section>
+
+    <section id="catalogo" class="catalog">
+      <div class="catalog-head">
+        <h2 class="section-title">Catálogo completo</h2>
+        <span class="muted" id="resultCount">0 livros</span>
+      </div>
+      <div class="book-grid" id="bookGrid"></div>
+    </section>
+
+
+    <section id="sobre" class="about">
+      <div class="about-card">
+        <h2>Sobre a Alexandrix</h2>
+        <p>Inspirada na lendária Biblioteca de Alexandria e na infinitude do cosmos, a <strong>Alexandrix Books</strong> reúne obras de todas as épocas em uma experiência elegante, silenciosa e profunda. Cada livro é uma estrela; cada leitor, um navegador entre constelações.</p>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div class="brand small">
+        <img src="./img/WhatsApp Image 2026-04-16 at 21.23.34.jpeg" alt="" class="brand-logo" />
+        <span>ALEXANDRIX BOOKS</span>
+      </div>
+      <p>© <span id="year"></span> Alexandrix Books — Todos os direitos reservados.</p>
+    </div>
+  </footer>
+
+  
+  <div class="modal" id="bookModal" aria-hidden="true">
+    <div class="modal-backdrop" data-close></div>
+    <div class="modal-card" role="dialog" aria-modal="true">
+      <button class="modal-close" data-close aria-label="Fechar">×</button>
+      <div class="modal-body" id="modalBody"></div>
+    </div>
+  </div>
+
+
+  <script src="./books.js"></script>
+  <script src="./script.js"></script>
+  <script src="./nav-drag.js"></script>
+  <script src="./community.js"></script>
+  <script src="./auth.js"></script>
+  <script src="./profile.js"></script>
+  <link rel="stylesheet" href="./community.html">
+  <link rel="stylesheet" href="./profile.html">
+
+
+
+</body>
+</html>
