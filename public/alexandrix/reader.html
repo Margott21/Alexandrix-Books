@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Leitor — Alexandrix Books</title>
+<meta name="description" content="Leia livros completos em domínio público na Alexandrix Books." />
+<link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <div class="stars-overlay"></div>
+
+  <header class="site-header">
+    <a href="./index.html" class="brand">
+      <img src="./img/WhatsApp Image 2026-04-16 at 21.23.34.jpeg" alt="Alexandrix Books" class="brand-logo" />
+      <div class="brand-text">
+        <span class="brand-name">ALEXANDRIX</span>
+        <span class="brand-sub">BOOKS</span>
+      </div>
+    </a>
+    <nav class="site-nav">
+      <a href="./index.html#catalogo">Catálogo</a>
+      <a href="./community.html">Comunidade</a>
+      <a href="./index.html#sobre">Sobre</a>
+    </nav>
+    <button class="cta-ghost user-btn" id="openUser" aria-label="Abrir perfil">
+      <span class="user-avatar" id="navAvatar">A</span>
+      <span class="user-btn-label">Perfil</span>
+    </button>
+  </header>
+
+  <main class="reader-page">
+    <div class="reader-head">
+      <div>
+        <h1 id="readerTitle">Carregando…</h1>
+        <p class="muted" id="readerMeta"></p>
+      </div>
+      <div class="reader-tools">
+        <button class="btn-secondary" id="fontMinus" aria-label="Diminuir texto">A−</button>
+        <button class="btn-secondary" id="fontPlus" aria-label="Aumentar texto">A+</button>
+        <a class="btn-secondary" href="./index.html#catalogo">Voltar ao catálogo</a>
+      </div>
+    </div>
+
+    <div class="reader-progress"><div class="reader-progress-fill" id="readerProgress"></div></div>
+
+    <article class="reader-surface" id="readerSurface">
+      <p class="muted">Buscando o texto completo…</p>
+    </article>
+
+    <div class="reader-nav">
+      <button class="btn-secondary" id="prevPage">← Anterior</button>
+      <span class="muted" id="pageLabel"></span>
+      <button class="btn-primary" id="nextPage">Próxima →</button>
+    </div>
+
+    <p class="muted reader-source" id="readerSource"></p>
+  </main>
+
+  <script src="./session.js"></script>
+  <script src="./books.js"></script>
+  <script src="./reader.js"></script>
+  <script src="./nav-drag.js"></script>
+</body>
+</html>

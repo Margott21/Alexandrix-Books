@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Comunidade — Alexandrix Books</title>
+<meta name="description" content="Comunidade Alexandrix Books — leia livros de outros leitores e publique o seu após verificação de segurança." />
+<link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <div class="stars-overlay"></div>
+
+  <header class="site-header">
+    <a href="./index.html" class="brand">
+      <img src="./img/WhatsApp Image 2026-04-16 at 21.23.34.jpeg" alt="Alexandrix Books" class="brand-logo" />
+      <div class="brand-text">
+        <span class="brand-name">ALEXANDRIX</span>
+        <span class="brand-sub">BOOKS · COMUNIDADE</span>
+      </div>
+    </a>
+    <nav class="site-nav">
+      <a href="./index.html">← Voltar ao catálogo</a>
+      <a href="#publicar">Publicar</a>
+      <a href="#explorar">Explorar</a>
+    </nav>
+    <button class="cta-ghost user-btn" id="openUser" aria-label="Abrir perfil">
+      <span class="user-avatar" id="navAvatar">A</span>
+      <span class="user-btn-label">Perfil</span>
+    </button>
+  </header>
+
+  <main id="top">
+    <section class="hero community-hero">
+      <div class="hero-glow"></div>
+      <div class="hero-content">
+        <span class="eyebrow">Comunidade Alexandrix</span>
+        <h1>Histórias de leitores, <em>para leitores</em>.</h1>
+        <p>Leia obras publicadas por outras pessoas da comunidade e compartilhe a sua. Todo envio passa por uma verificação automática de segurança (linguagem imprópria, ódio, conteúdo adulto, spam e qualidade mínima) antes de ser publicado.</p>
+        <div class="hero-actions">
+          <a href="#explorar" class="btn-primary">Explorar publicações</a>
+          <a href="#publicar" class="btn-secondary">Publicar meu livro</a>
+          <a href="./index.html" class="btn-secondary">Ler livros do site</a>
+        </div>
+      </div>
+    </section>
+
+    <section id="explorar" class="catalog">
+      <div class="catalog-head">
+        <h2 class="section-title">Publicações da comunidade</h2>
+        <span class="muted" id="cCount">0 livros aprovados</span>
+      </div>
+      <div id="communityApproved" class="community-cards"></div>
+
+      <div class="catalog-head" style="margin-top:32px">
+        <h2 class="section-title" style="font-size:1.4rem">Em análise</h2>
+        <span class="muted">Aguardando aprovação automática</span>
+      </div>
+      <div id="communityPending" class="community-cards muted-cards"></div>
+    </section>
+
+    <section id="publicar" class="community">
+      <div class="catalog-head">
+        <h2 class="section-title">Publique seu livro</h2>
+        <span class="muted">Verificação automática antes da publicação</span>
+      </div>
+      <form class="community-form" id="communityForm">
+        <label>Título<input type="text" id="cTitle" required maxlength="120" /></label>
+        <label>Autor<input type="text" id="cAuthor" required maxlength="80" /></label>
+        <label>Gênero
+          <select id="cGenre" required>
+            <option value="">Selecione...</option>
+            <option>Romance</option><option>Ficção</option><option>Fantasia</option>
+            <option>Ficção Científica</option><option>Clássico</option><option>Mangás</option>
+            <option>HQs</option><option>Não-Ficção</option><option>Infantojuvenil</option>
+          </select>
+        </label>
+        <label>Sinopse<textarea id="cDesc" rows="5" required maxlength="800" placeholder="Conte do que se trata sua obra (mínimo 60 caracteres)..."></textarea></label>
+        <label>Conteúdo / primeiro capítulo (opcional)<textarea id="cContent" rows="8" maxlength="20000" placeholder="Cole aqui um trecho ou capítulo para que outros leitores possam ler..."></textarea></label>
+        <div class="form-actions">
+          <button type="submit" class="btn-primary">Enviar para verificação</button>
+          <a href="./index.html" class="btn-secondary">Cancelar</a>
+        </div>
+        <p class="muted small" id="cStatus">Sua publicação será analisada automaticamente antes de aparecer na comunidade.</p>
+      </form>
+    </section>
+  </main>
+
+  <!-- Reader modal -->
+  <div class="modal" id="readerModal" aria-hidden="true">
+    <div class="modal-backdrop" data-close></div>
+    <div class="modal-card" role="dialog" aria-modal="true">
+      <button class="modal-close" data-close aria-label="Fechar">×</button>
+      <div class="modal-body" id="readerBody"></div>
+    </div>
+  </div>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div class="brand small">
+        <img src="./img/WhatsApp Image 2026-04-16 at 21.23.34.jpeg" alt="" class="brand-logo" />
+        <span>ALEXANDRIX BOOKS</span>
+      </div>
+      <p>© <span id="year"></span> Alexandrix Books — Comunidade.</p>
+    </div>
+  </footer>
+
+  <script src="./session.js"></script>
+  <script src="./community.js"></script>
+  <script src="./nav-drag.js"></script>
+</body>
+</html>
