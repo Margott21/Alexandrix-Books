@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Meu Perfil — Alexandrix Books</title>
+<link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <div class="stars-overlay"></div>
+
+  <header class="site-header">
+    <a href="./index.html" class="brand">
+      <img src="./img/WhatsApp Image 2026-04-16 at 21.23.34.jpeg" alt="Alexandrix Books" class="brand-logo" />
+      <div class="brand-text">
+        <span class="brand-name">ALEXANDRIX</span>
+        <span class="brand-sub">BOOKS</span>
+      </div>
+    </a>
+    <nav class="site-nav">
+      <a href="./index.html#catalogo">Catálogo</a>
+      <a href="./index.html#destaques">Destaques</a>
+      <a href="./index.html#generos">Gêneros</a>
+      <a href="./index.html#sobre">Sobre</a>
+    </nav>
+    <a href="./index.html" class="cta-ghost">← Voltar</a>
+  </header>
+
+  <main class="profile-page">
+    <section class="profile-hero">
+      <div class="profile-hero-glow"></div>
+
+      <div class="profile-identity">
+        <div class="avatar-wrap">
+          <div class="profile-avatar-lg" id="profileAvatar">A</div>
+          <label class="avatar-upload" for="avatarInput" title="Trocar foto">
+            <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"/>
+              <circle cx="12" cy="13" r="4"/>
+            </svg>
+          </label>
+          <input type="file" id="avatarInput" accept="image/*" hidden />
+          <button class="avatar-remove" id="avatarRemove" title="Remover foto">×</button>
+        </div>
+
+        <div class="identity-text">
+          <h1 id="profileName">Viajante Cósmico</h1>
+          <p class="profile-handle" id="profileHandle">@leitor.estelar</p>
+          <p class="profile-handle" id="profileEmail"></p>
+          <p class="profile-bio" id="profileBio">Explorador de constelações literárias. Apaixonado por clássicos, ficção científica e poesia.</p>
+          <button class="btn-primary" id="editProfileBtn">Editar perfil</button>
+          <button class="btn-secondary" id="logoutBtn">Sair da conta</button>
+        </div>
+      </div>
+
+      <div class="profile-stats big">
+        <div><strong id="statShelf">0</strong><span>Estante</span></div>
+        <div><strong id="statFav">0</strong><span>Favoritos</span></div>
+        <div><strong id="statRead">0</strong><span>Lidos</span></div>
+        <div><strong id="statTime">0h</strong><span>Tempo de leitura</span></div>
+        <div><strong id="statStreak">0</strong><span>Dias seguidos</span></div>
+      </div>
+    </section>
+
+    <nav class="profile-tabs" id="profileTabs">
+      <button class="tab active" data-tab="shelf">Estante</button>
+      <button class="tab" data-tab="favorites">Favoritos</button>
+      <button class="tab" data-tab="mybooks">Meus livros</button>
+      <button class="tab" data-tab="reading">Lendo agora</button>
+      <button class="tab" data-tab="activity">Atividade</button>
+      <button class="tab" data-tab="prefs">Preferências</button>
+    </nav>
+
+    <section class="tab-panel active" data-panel="shelf">
+      <div class="panel-head">
+        <h2 class="section-title">Minha estante</h2>
+        <span class="muted" id="shelfCount">0 livros</span>
+      </div>
+      <div class="book-grid" id="shelfGrid"></div>
+    </section>
+
+    <section class="tab-panel" data-panel="favorites">
+      <div class="panel-head">
+        <h2 class="section-title">Livros favoritos</h2>
+        <span class="muted" id="favCount">0 livros</span>
+      </div>
+      <div class="book-grid" id="favGrid"></div>
+    </section>
+
+    <section class="tab-panel" data-panel="mybooks">
+      <div class="panel-head">
+        <h2 class="section-title">Meus livros publicados</h2>
+        <a href="./community.html#publicar" class="btn-secondary">+ Publicar novo</a>
+      </div>
+      <div id="myBooksList" class="community-cards"></div>
+    </section>
+
+    <section class="tab-panel" data-panel="reading">
+      <h2 class="section-title">Lendo agora</h2>
+      <div class="reading-now" id="readingNow"></div>
+      <div class="reading-meta">
+        <div class="meta-card">
+          <span class="muted">Tempo total de leitura</span>
+          <strong id="readingTimeBig">0h 0min</strong>
+        </div>
+        <div class="meta-card">
+          <span class="muted">Sessão de hoje</span>
+          <strong id="todayTime">0 min</strong>
+        </div>
+        <div class="meta-card">
+          <span class="muted">Meta diária</span>
+          <strong>30 min</strong>
+          <div class="progress"><div class="progress-bar" id="dailyBar" style="width:0%"></div></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="tab-panel" data-panel="activity">
+      <h2 class="section-title">Sua atividade cósmica</h2>
+      <div class="activity-grid" id="activityGrid"></div>
+      <p class="muted center">Últimos 49 dias — quanto mais brilhante, mais você leu.</p>
+    </section>
+
+    <section class="tab-panel" data-panel="prefs">
+      <h2 class="section-title">Preferências</h2>
+      <div class="prefs">
+        <label class="pref"><input type="checkbox" data-pref="news" /> Notificações de novos lançamentos</label>
+        <label class="pref"><input type="checkbox" data-pref="dark" checked disabled /> Modo cósmico (tema escuro)</label>
+        <label class="pref"><input type="checkbox" data-pref="weekly" /> Recomendações semanais por e-mail</label>
+        <label class="pref"><input type="checkbox" data-pref="goals" /> Lembretes diários de meta de leitura</label>
+      </div>
+      <div class="danger-zone">
+        <h3>Zona de perigo</h3>
+        <button class="btn-secondary" id="resetData">Redefinir todos os dados do perfil</button>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div class="brand small">
+        <img src="./img/WhatsApp Image 2026-04-16 at 21.23.34.jpeg" alt="" class="brand-logo" />
+        <span>ALEXANDRIX BOOKS</span>
+      </div>
+      <p>© <span id="year"></span> Alexandrix Books — Todos os direitos reservados.</p>
+    </div>
+  </footer>
+
+  <!-- Profile edit modal -->
+  <div class="modal" id="profileModal" aria-hidden="true">
+    <div class="modal-backdrop" data-close-profile></div>
+    <div class="modal-card" role="dialog" aria-modal="true">
+      <button class="modal-close" data-close-profile aria-label="Fechar">×</button>
+      <div class="modal-body">
+        <h2>Editar perfil</h2>
+        <form id="profileForm" class="profile-form">
+          <label>Nome<input type="text" id="fieldName" required /></label>
+          <label>Usuário<input type="text" id="fieldHandle" required /></label>
+          <label>Bio<textarea id="fieldBio" rows="3"></textarea></label>
+          <label>Inicial do avatar (usada quando não há foto)<input type="text" id="fieldInitial" maxlength="1" /></label>
+          <div class="form-actions">
+            <button type="button" class="btn-secondary" data-close-profile>Cancelar</button>
+            <button type="submit" class="btn-primary">Salvar</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <!-- books catalog is needed to render shelf/fav -->
+  <script src="./session.js"></script>
+  <script src="./books.js"></script>
+  <script src="./profile.js"></script>
+  <script src="./nav-drag.js"></script>
+</body>
+</html>
