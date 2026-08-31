@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -30,3 +31,11 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+=======
+senhas.txt
+>>>>>>> daniel
+<<<<<<< HEAD
+[Configurações da sua branch Novas-Alterações]
+=======
+[Configurações da outra branch]
+>>>>>>> nome-da-outra-branch
