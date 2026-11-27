@@ -1,0 +1,2695 @@
+Produced by Pedro Saborano
+
+
+
+
+
+
+
+                                OTHELLO
+
+
+
+
+        Editor e proprietario, F. A. de Miranda e Sousa.
+        Comp. e imp. na typ. da Empreza Lusitana Editora,
+        pertencente ao editor C. do Ferregial, 23--LISBOA.
+
+
+
+
+                                G. DUBARRY
+
+
+                                  OTHELLO
+
+
+                         _Trad. de D. Alda de Sousa_
+
+
+
+
+                                  LISBOA
+                          EMPREZA LUSITANA EDITORA
+                          Calçada do Ferregial, 83
+
+                       DEPOSITARIO NO RIO DE JANEIRO
+                       LIVRARIA EDITORA JACINTO SILVA
+                            Rua Rodrigo Silva, 7
+
+
+
+
+I
+
+O rapto
+
+
+Era a epoca mais feliz e florescente da aristocratica Republica de
+Veneza. As esquadras disputavam vantajosamente aos turcos a supremacia
+no Mediterraneo, e nas costas gregas, Rhodes e Chypre unidas ao feliz
+povo da poderosa Senhoria, diziam eloquentemente ao ottomano que não era
+nada facil arrancar a presa ao leão de S. Marcos, quando este a colhera
+nos seus afilados dentes.
+
+Vivia-se por então no tempo em que a espada não podia enferrujar dentro
+da bainha, pois nos breves intervallos durante os quaes os exercitos não
+luctavam de povoado em povoado, de nação em nação, os individuos, sem
+distincções de cathegorias nem de classes, inventavam mil pretextos para
+guerrearem entre si, receosos talvez de olvidarem no repouso o manejo
+das armas.
+
+Por causa d'isto e tambem com receio dos innumeraveis «_briganti_» e
+roubadores de bolsas que, durante a noute, vagueavam pela poetica cidade
+dos canaes, nem todos se atreviam a transitar por ella fóra de horas,
+pois estavam certos de que nada bom encontrariam nas suas escuras e
+mysteriosas ruas.
+
+Eis porque causava certa extranheza ver a tranquilidade com que dois
+cavalleiros, jovens e de elegante porte, se bem que tal elegancia fosse
+mais notavel no que aparentava menos edade, conversavam passeando pela
+solitaria praça de S. Marcos á uma hora da madrugada d'uma noute de
+inverno.
+
+Devemos ponderar que a tranquilidade, a que acabamos de alludir,
+referia-se sómente ao facto dos cavalleiros não recearem dos perigos
+nocturnos que os ameaçavam em tal sitio e a horas tão mortas da noute;
+por outro lado, os dois homens pareciam dominados por viva agitação, a
+julgar pela vehemencia dos gestos e pela animação com que sustentavam o
+seguinte dialogo:
+
+--Digo-te, meu caro Yago, que semelhante coisa é impossivel, dizia o
+mais novo e de melhor apparencia dos dois interlocutores, tão impossivel
+como o Adriatico poder devolver a sua Senhoria o Doge o annel que este
+lhe deu no dia das suas nupcias.[1]
+
+    [1] Allude á cerimonia que celebravam os Doges no dia do seu
+    advento, e no qual simulavam casar com o Adriatico arrojando para o
+    mar uma preciosa joia, que era o annel de nupcias.
+
+--Pois eu asseguro-te, nobre Rodrigo, replicou o mais velho dos
+cavalleiros, que trajava á militar e ostentava a divisa de alferes, que
+vi com os meus poprios olhos tua prima Desdemona, ha pouco mais de uma
+hora, fugir de casa do pae, o senador Brabancio, e saltar para uma
+gondola, onde a esperava esse maldito africano, que Deus confunda.
+
+--Pois bem, os teus olhos trahiram-te, apresentando á tua fantasia como
+real o que não era mais do que um sonho. Ah! as garrafas de vinho de
+Chypre que bebeste esta noute, tiveram mais força do que a tua
+resistencia de bebedor habituado ás libações, e puzeram-te completamente
+borracho, respondeu de mau humor aquelle a quem o seu companheiro dava o
+nome de Rodrigo.
+
+--Dizem, e com razão, que de namorado a tonto não vae mais do que um
+passo! exclamou o alferes Yago em tom desdenhoso.
+
+--Porque dizes isso? porguntou com altivez Rodrigo. Tratas acaso, de
+insultar-me?
+
+--Deus me livre de tal coisa, respondeu Yago. Queres dizer-me o que
+ganharia com isso?
+
+--Seja pelo que fôr, o facto é que me chamaste tonto.
+
+--Não, disse que estavas enamorado, e desafio a que o negues.
+
+--Seria inutil, pois sabei-o tão bem como eu, confessou Rodrigo. Mas
+deixemo-nos de discussões inuteis e vamos ao que importa. Se o que me
+acabas de dizer não é uma infame mentira ou estupida fantasia de bebado;
+se a minha prima Desdemona esqueceu a honra de sua familia, o respeito e
+as cans de seu pae, toda a sua juventude de pudor e recato que a
+tornavam a donzella mais pura de Veneza; se esqueceu tudo isto, repito,
+para lançar-se nos braços d'esse mouro de rude linguagem e de rosto
+enegrecido, como qualquer infame Messalina, preciso será crer de hoje
+para sempre que a mulher, desde que nasce, é materia affeiçoada para o
+vicio e o ser mais ignobil que existe sobre a terra.
+
+--Enganas-te, nobre Rodrigo, e a tua paixão e ciumes fazem-te ver as
+cousas, augmentadas até á exageração ridicula, replicou tranquilamente
+Yago. A mulher, na realidade, não é boa nem má, pura ou impura, mas
+simplesmente mulher e, como tal, joguete das circumstancias. A culpa do
+que succede não a tem ella, mas sim o velho tonto do pae que, depois de
+a ter encerrada como monja durante dezessete annos, deixou entrar em
+casa Othello com a mais ampla liberdade, consentiu que visitasse tua
+prima, conversasse com ella no mais absoluto isolamento, e, emfim,
+cruzou tranquilamente os braços, emtanto que o lobo rondava
+incessantemente em redor da ovelha.
+
+--Mas, replicou Rodrigo irritado, quem poderia suppôr que uma joven tão
+innocente e virginal como Desdemona, podesse chegar a enamorar-se de um
+homem negro e feio como esse maldito mouro?
+
+--Outro qualquer que não tivesse sido um velho imbecil como teu tio
+Brabancio, ou um namorado cego como tu, teria suspeitado que esse mouro,
+precisamente pelo que tem de extraordinario, poderia chegar a deslumbrar
+e a seduzir a donzella, como realmente succedeu. Ignoras por ventura,
+continuou Yago animando-se emquanto fallava, que ninguem conhece Othello
+melhor do que eu, e que é este exactamente o motivo do odio mortal que
+lhe tenho? Esse homem é feio, concordo; de rude linguagem e desabridas
+maneiras, mas nasceu como o leão para dominar e vencer, onde quer que se
+encontre; a alma d'elle é grande como o espaço e profunda como o abysmo;
+o coração é de gigante, e n'elle os sentimentos humanos, com tudo quanto
+ha de leal e de nobre, desenvolvem-se até assumirem proporções do sobre
+natural; junta a isto uma vida romantica, cheia de peripecias
+emocionantes e curiosissimas, sustentada á custa de uma lucta constante
+com os homens, com as feras e até com os elementos; emfim, um homem de
+sangue real, realeza moura, mas que vale tanto como outra qualquer, um
+homem de sangue real, repito, que perde seus paes, é vendido como
+escravo, foge atravez do deserto e, sem outras armas do que a coragem
+pessoal, a força d'um hercules, se assenhoreia das selvas virgens, das
+quaes desaloja os tigres e os leopardos: que depois se apresenta entre
+os homens e pratica com elles o mesmo que com os temiveis moradores dos
+bosques; que chega a Veneza quando a Republica está a ponto de tornar-se
+provincia de Constantinopla, e, com o seu valor lendario e o seu talento
+de general a salva, destroe os inimigos e devolve todo o brilhante
+esplendor á vacilante Magestade. Pensa em tudo isto, repito, apresenta
+tal homem prodigioso a uma rapariga de desessete annos, enamorada, como
+todas, do maravilhoso poetico, do extraordinario, e á fé de cavalleiro
+te juro, que a fealdade e a rudeza materiaes d'um mouro desapparecerão
+ante os olhos da virgem innocente, para não lhe deixar ver mais do que o
+lado poetico da varonil e sobrehumana figura do heroe, ante a qual
+surgem empequenecidos até ao ridiculo, os peralvilhos loiros e
+affemininados que tenha visto pisar até então as alcatifas dos seus
+salões.
+
+--A julgar pela discripção que acabas de fazer de Othelo, não parece
+senão que estás tão enamorado d'elle como minha propria prima Desdemona,
+ponderou sarcasticamente Rodrigo.
+
+--Porquê? replicou Yago com maior sarcasmo. Porque o conheço e conservo
+o senso commum necessario para poder apreciar no seu justo valor as
+qualidades d'esse homem e dar conta exacta da influencia que taes
+qualidades podem exercer no coração d'uma joven? Que disparate suppôr
+que eu amo Othello! Pelo contrario, odeio-o com todas as forças da minha
+alma e de boa vontade inventaria qualquer novo tormento para vel-o
+morrer na mais horrorosa das agonias. Preferiu-me a esse florentino,
+Miguel Cassio, a quem nomeou seu tenente, deixando que eu, com o
+estupido pretexto de que ignoro a estrategia militar, continue sempre
+alferes, o que é peor ainda. Fallando francamente, não tenho base firme
+para fundar as minhas suspeitas, mas chegou-me a parecer que o maldito
+mouro e minha mulher, Emilia, dormiram mais de uma vez no mesmo leito
+que paguei para celebrar as bodas. Só esta suspeita faz com que sinta
+todos os martyrios do inferno nas entranhas e deseje vingar-me de
+Othello, de maneira que cause horror ao proprio Deus das vinganças. Por
+isso te procurei esta noute, accrescentou o alferes fixando em Rodrigo
+os olhos chammejantes. Estás apaixonado por tua prima Desdemona, e o
+homem que eu odeio roubou-ta; pois bem, se me promettes fazer tudo
+quanto te disser cegamente e sem discutir as minhas indicações,
+garanto-te que Othello pagará o seu crime e Desdemona acabará por
+arrojar-se nos teus braços sincera e profundamente arrependida do que
+fez.
+
+--Devéras? Não me enganas? esclamou Rodrigo louco de alegria.
+
+Juro-o! respondeu Yago com um gesto de convicção; se me obedeceres em
+tudo, antes de um mez Desdemona será tua.
+
+--Que tenho a fazer para tanto? perguntou Rodrigo disposto aos maiores
+sacrificios para conseguir o amôr da prima.
+
+--Primeiro, disse Yago, que nunca perdia a presença de espirito, ganhar
+o tempo que temos perdido discutindo aqui como dois tontos, ou como dois
+homens despreoccupados, que não teem nada a fazer, quando cada minuto
+que se perde é um seculo, difficil de recuperar.
+
+E no relogio de S. Marcos soaram n'esse momento duas horas.
+
+--Já duas horas! esclamou Yago, arrastando comsigo o amigo, emquanto
+fallava. É bastante tarde e ainda precisamos de correr muito!
+
+--Onde me conduzes? perguntou Rodrigo desconfiado, mas seguindo
+docilmente o alferes.
+
+--Ao palacio de teu tio, para communicar ao pobre velho a sua deshonra e
+a fuga da filha, se é que elle ainda não deu por tal, como é provavel,
+pois deve dormir a estas horas, ajuntou Yago.
+
+--Mas vamos provocar um escandalo! replicou o primo de Desdemona, a
+quem, como cavalleiro que era repugnava semelhante especie de delação.
+
+--É isso precisamente o que nós necessitamos: um escandalo, disse Yago,
+sem deixar de arrastar o amigo. Um escandalo que fira o orgulho e a
+vaidade de um dos senhores mais poderosos de Veneza, e que obrigue o
+Doge a castigar o culpado com todo o rigor que exigem a gravidade da
+falta e as duras leis da Republica. Basta-me tanto para vêr satisfeito o
+meu odio, continuou o miseravel com feroz sorriso, depois Othello será
+destituido do seu posto de general e de todas as honras, como auctor de
+um delicto que attentou contra a dignidade de um dos membros do Senado,
+sem contar as penas corporaes que cahirão sobre elle e que serão
+verdadeiramente terriveis, pois conheço bem a justiça veneziana e sei
+que é inexoravel n'este ponto.
+
+E, ao proferir taes palavras, Yago ria com um riso sedento de sangue.
+
+Entretanto chegaram ao magnifico palacio do senador Branbancio e, depois
+de baterem ruidosamente á grande porta de entrada, obrigaram a criada a
+despertar o amo, que deixou o leito e recebeu os nocturnos visitantes
+com a vontade que pode suppor-se.
+
+Mas esta má vontade não tardou em converter-se em estupefacção levada
+até á atonia, que por sua vez se transformou n'uma indignação que esteve
+a pontos de o enlouquecer, quando o sobrinho o informou da fuga da joven
+e virginal Desdemona, rapto que se negou obtinadamente a acreditar, a
+começo, mas que em breve poude ver comprovado, depois de pessoalmente
+percorrer todos os cantos do palacio com a mesma minuciosidade que
+empregaria se, em vez de procurar uma mulher, se tratasse de um objecto
+menos que imperceptivel.
+
+Era que o infeliz velho tinha ante os olhos a realidade e recusava
+admittil-a, ditoso ainda com a illusão de que tudo aquillo não era mais
+do que um pesadelo horrivel, do qual não tardaria a despertar.
+
+Assim, quando lhe foi impossivel duvidar e que teve de se render
+fatalmente á evidencia, a sua dôr não conheceu limites e, no cumulo da
+desesperação, amaldiçoou a filha e todas as mulheres chamando-lhes
+encarnação viva de Lusbel, da qual tinham até a infernal formosura;
+renegou o ceu e a terra e não deixou de lastimar-se e blasfemar até que,
+vencido pelo peso da propria afflicção, sómente lhe ficaram energias
+para lamentar com soluços convulsivos a immensa desgraça que acabava de
+cahir-lhe na encanecida cabeça.
+
+Passada a angustiosa crise, reanimou-se um pouco, e com as forças
+voltou-lhe o orgulho e a altivez de patricio venesiano; a partir d'este
+momento só pensou em vingar o ultrage recebido, para o que era preciso,
+antes de mais nada, apoderar-se do autor da sua deshonra, do infame que
+lhe roubara a filha.
+
+Por conseguinte e sabendo por Yago que Othello se encontrava áquellas
+horas nas margens do Adriatico, e não longe do porto, onde estava
+ancorada a galera destinada a transportal-o nas suas expedições
+guerreiras, reuniu a toda a pressa alguns soldados, e pondo-se
+animosamente á frente da pequena escolta, ordenou a seu sobrinho e a
+Yago que o guiassem até o sitio onde poderia encontrar o raptor de
+Desdemona.
+
+Rodrigo prestou-se de bom grado a acompanhal-o; mas o alferes, que tinha
+razões sufficientes para recear que o mouro o visse em companhia dos que
+iam perseguil-o, allegou tão plausiveis e logicos motivos, que o
+vingativo e furioso pae consentiu em que marchasse deante de elles,
+precedendo-os a boa distancia, para que quando a ameaçadora comitiva
+chegasse onde estava Othello, elle se encontrasse já ao lado do chefe,
+ao qual teria entretanto explicado satisfatoriamente a sua ausencia.
+
+Assim fizeram, com effeito, adeantando-se Yago a passo largo, pelo
+caminho mais curto e seguindo-o lentamente, Brabancio, Rodrigo e os
+homens de armas que os acompanhavam.
+
+Precisamente no momento em que Yago se apresentava ao general, recebia
+este uma embaixada do Doge, que, apesar do adiantado da hora, estava
+presidindo ao Conselho dos Dez convocado a toda a pressa para assumpto
+de vital interesse da Republica e que exigia a presença immediata do
+general ante o Conselho.
+
+--Está bem, respondeu gravemente Othello aos emissarios do Doge que
+acabavam de dar-lhe esta ordem. Já os sigo; para fallar verdade,
+preferia aguardar o dia de amanhã para tratar negocios graves; pois
+asseguro-lhes, senhores, que esta noute tenho mais coração do que
+cabeça. Mas o Estado está acima de tudo e obedeço o sua senhoria.
+Partamos.
+
+--Alto ahi, perro traidor, ladrão de honras, corruptor de donzellas!
+gritou uma voz colerica e cheia de ira, no momento em que o mouro e os
+commissionados do Doge se punham a caminho.--Pára ou mato-te como o
+miseravel que és! Que fizeste de minha filha? Vamos, responde, infame
+Restitue-me Desdemona!
+
+Ao encontrar-se cara a cara com Brabancio, que, como já terão advinhado
+os leitores, era quem o increpava tão asperamente, o mouro ficou
+preplexo por um instante e sem saber, realmente, que partido tomar, pois
+era a primeira vez na sua vida que ouvia um homem insultal-o de tal
+modo. Mas recuperando acto continuo o sangue frio, dominou a situação
+com um simples esforço da poderosa vontade e respondeu brandamente ao
+velho:
+
+--Senhor, reprimi a vossa colera, que não tem razão de ser, pois nem eu
+sou ladrão de honras, e menos ainda corruptor de donzellas. Vossa filha
+seguiu-me esta noute voluntariamente, como está disposta a confessál-o,
+e, apesar de ha tres horas ser minha mulher, permanece todavia tão pura
+como os anjos do céu. Juro-o pela minha espada!
+
+--Mentes como um cão! gritou fóra de si o velho. Minha filha não te
+seguiria de boa vontade e ainda menos se prestaria a ser esposa de um
+infame hereje como tu! Recorres a tão estupida desculpa para te livrares
+de cahir nas minhas mãos. Mas enganas-te, miseravel! continuou irritado
+Brabancio, avançando um passo mais para Othello, enganaste, se julgas
+ser-te facil escapar á justiça e á minha vingança. Vês estes homens que
+me acompanham? accrescentou voltando-se e apontando com o braço hirto
+para os companheiros; pois bastará um signal meu para te arrancarem com
+os seus punhaes a alma do corpo, se vacilas um só momento em me
+seguires.
+
+O africano contemplou fixamente, durante um segundo, o encolorizado pae
+de Desdemona, e no bronzeado rosto deixou transluzir uma expressão terna
+e compassiva; depois ergueu a poderosa cabeça com um gesto de leão e
+lançou um olhar de supremo desprezo aos homens que acompanhavam
+Brabancio.
+
+Em seguida respondeu com voz meiga e socegada:
+
+--São poucos, senhor, para obrigar Othello a que faça o que não quer,
+emquanto estas duas mãos possam manejar uma espada ou estrangular um
+homem, e ao pronunciar estas palavras, o mouro estendeu os atleticos
+braços n'um tal gesto, que todos, até o proprio velho, retrocederam um
+passo e soffreram uma especie de calafrio que lhes chegou até aos ossos;
+são poucos, repito; seriam necessarios mais homens e, sobre tudo, homens
+de tempera, differente d'esses que vos acompanham. Mas ha outras razões
+mais poderosas, continuou o formidavel africano com a mesma brandura até
+ali mantida, que vos impedirão agora de pôr mão sobre mim.
+
+--Quaes? rugiu o velho cego pela ira. Julgas por ventura que te vaes
+livrar com as tuas valentias?
+
+--Não, respondeu friamente Othello; livro-me pelo menos agora, porque
+assim é a vontade do Doge, que acaba de chamar-me para que compareça sem
+a menor demora ante o Conselho dos Dez, o qual, presidido por elle, se
+acha reunido n'este momento para tratar de assumpto de gravissimo
+interesse para o Estado, e a respeito do qual, segundo parece,
+necessitam conhecer a minha opinião. Agora bem; proseguiu dizendo o
+mouro deliberadamente, ousarieis oppôr-vos á vontade do Doge e do
+conselho, e tolher que se executassem as suas ordens, que, como sabeis,
+são sagradas na Republica, expondo-vos, talvez a pôr em perigo a
+segurança do Estado?
+
+--Ceus! Fallarás verdade? exclamou Brabancio desesperado ao ver que a
+presa estava prestes a escapar-lhe.
+
+--Estes cavalleiros podem responder-te, affirmou o mouro, indicando os
+commissionados do Doge, que permaneciam a poucos passos de distancia,
+testemunhas mudas da acalorada scena.
+
+--Assim é, nobre Brabancio, affirmou o que parecia ser o chefe do grupo.
+Quanto acaba de dizer o general é absolutamente verdade.
+
+O velho senador pareceu ficar um momento atordoado com o peso da
+noticia.
+
+Mas, de prompto, ergueu a cabeça, os olhos faiscaram-lhe com a viva
+satisfação da vingança satisfeita, e perguntou ao chefe dos
+commissionados:
+
+--Disseste que o Doge está n'este momento presidindo ao Conselho dos
+Dez?
+
+--Assim o disse e assim é, nobre Brabancio; respondeu o interpelado.
+
+--Pois bem, n'esse caso, continuou o pae de Desdemona, que melhor
+accasião do que esta para exorál-o a que faça justiça? Por muito grave
+que seja o assumpto que presentemente o occupa, não poderá sel-o tanto
+que o impeça de ouvir a queixa de um senador da Republica, sobre tudo de
+um senador da minha ascendencia, contra um bandido que o Estado abrigou
+incautamente, no seu seio. Ides á presença do Doge, não é assim? Pois
+bem, eu vou tambem e assim ganharei tempo, em vez de o perder, como
+suppuz. Já vês, concluiu o raivoso velho dirigindo-se a Othello, que não
+ha poder humano que te livre da minha vingança! Vamos ter com o Doge e
+pedir-lhe justiça!
+
+E todos formando um grupo compacto abandonaram as margens do Adriatico e
+perderam-se lentamente nos solitários e tenebrosos labyrintos da poetica
+cidade dos canaes.
+
+
+
+
+II
+
+Othello
+
+
+Apezar da gravidadade das circumstancias, o Doge não poude conter uma
+exclamação de surpreza ao ver entrar Brabancio na sala onde se celebrava
+o conselho, acompanhando Othello, sem que para isso trouxesse ordem sua.
+Lançou pois, um olhar colerico ao velho senador e perguntou severamente:
+
+--Quem se atreve a desobedecer d'este modo á minha vontade e ás leis da
+Republica, que prohibem a entrada na sala do Conselho a todo aquelle que
+não tenha ordem expressa de comparecer ante mim?
+
+--Eu, Senhoria--respondeu em tom firme, e attitude respeitosa o pae de
+Desdemona.--Eu, que venho pedir-vos justiça para o irreparavel ultraje
+que lançaram nas minhas cans e no meu nome de patriota.
+
+--Tão urgente é o caso e tão imperioso e vehemente o teu desejo de ver
+reparado o agravo que recebeste, para olvidando toda e qualquer
+consideração, entrares n'este recinto sagrado para todos os cidadãos da
+Republica?--replicou o Doge com enfado.
+
+--A Vossa prudente e sabia rasão julgará por si mesma--disse Brabancio
+sem se deixar intimidar pela attitude severa do Doge, attitude que se
+reflectia nos dez membros do Conselho. E, acto continuo, indicando a
+Othello que permanecia de pé a seu lado.--Este homem, que a Republica
+acolheu em hora aziaga para todos, acabou de roubar-me a filha,
+deshonrando-a, deshonrando-me tambem e lançando uma mancha indelevel
+sobre toda a nobreza veneziana, sobre o nobre nome que me orgulho de
+usar. Justiça, Senhoria, contra tamanho criminoso! justiça, se não
+quereis que eu renegue a propria terra em que nasci!
+
+--Tranquillisa-te, bom Brabancio--respondeu o Doge com benevolencia--se
+é certa a accusação que acabas de fazer contra esse homem, contra esse
+habil e heróico general que mais de uma vez tem dado provas da
+generosidade do seu coração, salvando a Republica, eu te prometto, como
+cavalleiro veneziano e como magistrado supremo do Estado, que justiça te
+será feita! Bem disseste affirmando que o ultraje que recebeste recae
+sobre todos os teus compatriotas. Mas sabes, prudente velho, que os
+momentos actuaes são em extremo solemnes e as circumstancias
+gravissimas? Os turcos dirigem-se contra ilha de Chypre, com uma
+poderosa esquadra, e d'ella se apoderárão, facilmente se não realizarmos
+um verdadeiro milagre de vontade e de força. Agora bem--proseguiu o
+Doge, com convicção.--Sabes o que significa para Veneza a perda da ilha
+de Chypre? Significa ver-se reduzida a Rodas no Archipelago; é a ruina
+do seu commercio com a Grecia e com toda a parte oriental da Europa; é o
+principio da decadencia do seu poder no Mediterraneo, e quando Genova,
+Florença e o Pontificado saibam isto, cahirão sobre a orgulhosa soberana
+do Adriatico como um bando de abutres sobre uma aguia ferida e enferma,
+para repartir os seus restos e insultar a sua passada grandeza. Immensa
+e justa é a tua dor, pobre velho, mas ante as calamidades que ameaçam a
+Republica, tu, varão sabio e prudente, responde: que significa a
+desgraça de um individuo, de uma familia, de uma dôr pessoal por grande
+que seja, comparada com o soffrimento de um povo?
+
+--Perdoe-me a Vossa Senhoria e o sabio Conselho, respondeu humildemente
+o velho; ignorava as terriveis noticias que me acabaes de communicar e
+cega-me a dôr e a soberba. Soffra eu e os meus mil vezes, dado que se
+salve a Republica! Se a pessoa que a póde salvar é esse homem, terminou
+indicando Othello, desde este momento retiro a minha accusação e
+esperarei pacientemente, para lavar a mancha cahida sobre o meu nome,
+que venham melhores tempos! Veneza e a Republica acima de tudo!
+
+E, ao dizer estas palavras, o nobre velho pareceu verdadeiramente
+transfigurado pelo generoso enthusiasmo que lhe trasbordava do coração,
+enthusiasmo que se communicou instantaneamente a todos os circumstantes,
+exceptuando Othello, que permaneceu sereno e frio como estatua de
+bronze. Mas apenas acabou de fallar o pae de Desdemona, e antes que o
+Doge tivesse tempo de responder-lhe, agradecendo a nobreza da sua
+conducta, como pensava fazel-o, o mouro estendeu o braço direito, como
+dando a entender que queria pedir a palavra, e ao ver que os membros do
+Conselho inclinavam a cabeça, com um gesto de approvação, começou com
+voz grave e pausada:
+
+--O sabio e prudente Conselho, assim como a Senhoria que o preside, vão
+perdoar-me expôr a minha opinião a respeito de tudo quanto succede, sem
+que previamente me tenham auctorizado para tanto.
+
+--Era o que pensava agora fazer, pois não foste chamado para outra
+cousa, heroico Othello, disse o Doge com benevolencia; falla pois, com
+liberdade absoluta.
+
+--Primeiro que tudo, proseguiu o general, occupar-me-hei, como é de
+justiça, do mais importante; quer dizer do que diz respeito ao Estado;
+depois tratarei da accusação que este velho acaba de lançar contra mim.
+Nada receiem! Serei breve, muito breve, porque pouco, na realidade,
+tenho de dizer com respeito aos dois assumptos. Por outro lado não é
+este o momento opportuno para dispensarmos palavras, mas sim de
+praticarmos actos; além d'isto a minha linguagem é rude e desataviada de
+galas.
+
+«A Senhoria de Veneza e o sabio Conselho ignoram decerto que a unica
+eloquencia de que posso orgulhar-me é a das acções.
+
+--Precisamente aquella de que hoje necessita a Republica, observou o
+Doge gravemente.
+
+--Pois tel-a-ha, respondeu Othello com convicção absoluta. O que tenho a
+dizer com relação aos turcos que buscam apoderar-se da ilha de Chypre,
+reduz-se a isto: Montano, a quem deixei como governador na ilha, com
+plenos poderes para que me substituisse durante curta ausencia, é um
+militar valente como ha poucos e experimentado como nenhum; adora Chypre
+como um filho adora a mãe, apesar de não ter nascido lá; dispõe de bons
+elementos de combate e, por muito vigoroso que seja o ataque dos turcos,
+saberá resistir durante alguns dias, os sufficientes para que, sahindo
+eu esta mesma noute ou, para melhor dizer, esta manhã, de Veneza, tenha
+tempo de surprehender os otomanos antes de que logrem pôr nas torres da
+ilha o estandarte da meia lua.
+
+--E crês, general, perguntou anciosamente o Doge, que dispões de
+bastantes recursos para dominar e vencer o grande contingente de homens
+de guerra e armamento naval com que, segundo noticias fidelissimas
+recebidas, os turcos se aprestam para a lucta?
+
+--Essas noticias exageram, ou mentem, replicou friamente Othello. O
+sultão está gravemente empenhado nas guerras com Castella e com Papa, e
+não pode dispor de grandes elementos de combate. Que Montano resista
+sómente oito dias, que me sejam favoraveis os ventos, e respondo pela
+minha cabeça, que a Republica conservará em seu poder Chypre e dará uma
+nova e forte lição ao seu constante e teimoso inimigo, que o manterá na
+reserva durante muito tempo. Othello, que nunca mentiu, jura-o pela sua
+lealdade ao Estado.
+
+E o altivo africano contemplou com tão fria serenidade os individuos do
+Conselho, que estes sentiram que a confiança, uma confiança absoluta,
+voltava a renascer-lhes nos corações.
+
+--Assim pois, perguntou o Doge ao mouro, partirás hoje mesmo para
+Chypre?
+
+--Apenas o sol doire com os seus raios o extremo do mastro real do meu
+navio, a quilha d'este rasgará as ondas orgulhosas do Adriatico em
+direcção á ilha, respondeu Othello. Mas antes, Senhoria, ordena-me o
+coração e a lealdade responder ás accusações d'este velho e deixar
+terminado este assumpto. Peço-vos que não me negueis o favor de me
+ouvirdes e de fallar agora mesmo na causa que vou submetter ao vosso
+recto juizo, Senhoria; porque, apesar de tudo, poderia morrer na nova
+empreza que vou emprehender e por cousa nenhuma do mundo quereria que
+pezasse sobre o meu nome a affronta que Brabancio acaba de lançar sobre
+elle com as suas palavras, ante o Conselho...
+
+--Falla pois, Othello--disse o Doge, com deferencia;--mas, como ha pouco
+disseste, procura ser breve, o mais breve que te seja possivel, porque
+não ignoras que o tempo urge e os momentos perdidos são preciosos.
+
+--A brevidade convem a todos--disse o africano;--porém mais a mim do que
+a ninguem, porque d'ella depende o exito do meu plano de batalha e da
+sorte da minha existencia. Não receieis pois, Senhoria, e escutem,
+ouçam-me todos, com os corações de homens e toda a consciencia de
+magistrados, porque é a minha honra, a minha vida e a minha felicidade
+que jogo n'este momento.
+
+Calou-se o mouro e, durante alguns instantes, pareceu como abstrahido em
+meditação dolorosa; depois, erguendo a altiva e bronzeada fronte com o
+gesto leonino que lhe era peculiar, olhou cara a cara para o Doge e para
+os individuos do Conselho com olhos nos quaes se reflectia toda a
+lealdade do seu grande caracter, e começou em voz grave e pausada, que
+condizia perfeitamente com a soberba majestade da attitude:
+
+Barbancio accusou-me ante vós, Senhoria, de que esta noute lhe raptei a
+filha para deshonral-a e deshonral-o a elle e a toda a nobreza da
+Republica.
+
+--E assim é; atreve-te a negál-o! gritou fóra de si o velho senador, a
+quem a recordação do rapto da filha despertara toda a colera que,
+durante momentos, havia parecido abandonál-o.
+
+--Nego-o, porque não é verdade--respondeu friamente Othello--Desdemona
+deixou esta noute a casa de seu pae para seguir-me, para acompanhar seu
+esposo, porque meia hora depois de ter pisado o tapete da minha gondola,
+enlaçava-se com o meu o seu destino ante os altares.
+
+--É mentira, uma infame mentira!--rugiu o velho--A minha filha não póde
+ser a esposa de um cão hereje como tu!
+
+--Tanto póde, que o é--affirmou categoricamente o mouro, sem perder nem
+por um momento o sangue frio.--Além d'isso, não casou com um hereje,
+pois creio no Deus dos christãos, porque é o Deus da mulher que adoro.
+
+--Então é porque a enlouqueceste, porque a embruxaste com feiticerias e
+artes magicas!--exclamou Brabancio no paroxismo da ira. D'outro modo, é
+admissivel que uma donzella tão pura, tão formosa e delicada como
+Desdemona, se enamorasse de um horrivel negro como tu?
+
+D'esta vez as palavras do colerico velho feriram por certo alguma fibra
+sensivel e devéras intima do coração de Othello, porque a côr bronzeada
+do mouro branqueou durante um segundo, e o general, erguendo mais ainda
+o alto e poderoso busto, murmurou com voz moderada, mas na qual, apesar
+de tudo, se sentia vibrar um furacão de sentimentos ignorados.
+
+--Sempre a mesma phrase! Um horrivel negro! Como se ha-de enamorar uma
+virgem, bella e pura como Desdemona, de um horrivel monstro como
+Othello! Ignoro, senhor--continuou o africano dirigindo-se d'esta vez ao
+senador,--se as mulheres veem mais longe e mais profundo do que os
+homens, mas para dita nossa e honra sua é preciso acreditar que sim, e
+que a vossa filha viu a minha alma. A minha alma, ouvem, senhores? que é
+a de um homem como vós, como a vossa, velho implacavel, como a de todos
+os homens brancos emfim, e que ainda talvez valha mais do que a de
+muitos d'esses, porque está firmemente temperada na desventura e na
+lucta pela existencia.! Uma lucta horrivel, espantosa capaz de
+aniquillar, o melhor coração de toda a nobreza veneziana á
+qual--continuou com gesto de leão,--egualo, se não supero em raça,
+porque se ella nasceu em berço doirado, o brilho de uma corôa real
+illuminou meu nascimento. Sim, orgulhoso nobre; sou, quando menos, teu
+egual, porque descendo de reis, e sou teu superior em valor moral,
+porque estou purificado pela desgraça. Vencidos meus paes por um
+inimigo, não tão poderoso, porem mais astuto e mais cobarde do que
+elles, fui vendido com meus escravos, como um egual de taes miseraveis.
+Sim, o leão foi comprado revolto e mettido entre uma jaula de cães; mas
+a escravatura não se fez para os leões e eu fugi da minha jaula matando
+os guardas e correndo para o deserto, que era o meu ambiente natural.
+Ali lutei com as féras para disputar-lhes o alimento, e digo-te
+sinceramente que ellas são mais leaes e mais nobres na luta do que a
+maioria dos homens com quem tenho deparado antes e depois de vencel-as.
+Mais tarde, farto da solidão, fui de povo em povo, de nação em nação, e
+desde o estreito de Gibraltar até ao dos Dardanelos, reguei o caminho
+com sangue de cobardes e lagrimas de corações agradecidos. Quando, por
+ultimo, o Destino me trouxe para entre os vossos, a Republica tremia
+como presa prestes a ser devorada pelo turco, pelo genovez, pelo
+florentino, pelo romano, por todos os seus inimigos, emfim. E eu
+firmei-a; derrotei aquelles que queriam a sua queda para a fazerem em
+pedaços, dei estabilidade á Republica vacilante, e a minha mão
+acostumada a apertar sem tremer a garganta dos tigres, cravou no ponto,
+mais alto da Europa a bandeira de Veneza.
+
+«Que sangue haverá, pois, na cidade de S. Marcos que possa
+envergonhar-se de se misturar com o meu?
+
+Calou-se o mouro por um momento, e por toda a salla pareceu vibrar a sua
+potente voz. Othello continuou, sempre dirigindo-se a Brabancio:
+
+--Tua filha sabia tudo isto, sim, sabia-o, porque eu proprio lh'o havia
+contado; conhece a minha historia, leu em meus olhos e bebeu nas minhas
+palavras a formidavel e sangrenta epopeia da minha vida; viu-me tal qual
+sou, e não como me veem os outros, como tu me vês, cego pela ira, e, em
+vez de achar em mim o monstro a que te referes, viu apenas o homem de
+coração, que sabe triumphar do Destino e dos homens, e começou por
+admirar-me, como um ser que valia mais do que todos os fatuos inuteis e
+vadios que a rodeavam; para concluir, amou-me com o mesmo amor profundo
+e infinito com que eu a amo. Este é todo o nosso crime, e por elle peço
+que nos julguem--terminou dizendo, dirigindo-se ao Doge e aos membros do
+Conselho.
+
+--Tudo quanto disseste nada é mais do que palavras e só
+palavras!--gritou Brabancio desesperado, pois temia que o prestigio que
+rodeava Othello inclinasse em seu favor os que tinham de o julgar.--«Os
+factos fallarão mais alto do que tudo quanto possas dizer em teu abono!
+Minha filha! Confessa onde occultaste Desdemona! Minha filha que
+compareça ante vós, senhores, e ella desmentirá essa ridicula novella
+que acaba de contar-vos este homem, para disfarçar o indigno recurso de
+que se valeu para desvairar o cerebro e annular a vontade de uma virgem
+pura e innocente como a propria innocencia!
+
+--É justo--assentiu o Doge, dirigindo-se a Othello.--a tua causa está
+bem apresentada e melhor defendida por ti mesmo; mas para tratarmos
+d'ella equitativamente, é necessario ouvir as duas partes. Diz, pois,
+onde se encontra Desdemona, e nós a faremos comparecer sem perda de
+tempo para deixar ultimado este assumpto. Porque urge aclarál-o até ao
+fim; se és realmente, como julgamos, digno da confiança que em ti
+deposita a Republica, ao enviar-te hoje de novo a defendel-a contra os
+seus inimigos, ou se terá razão o senador em te accusar com a aspereza
+com que acaba de fazel-o; em tal caso, as leis do estado, que podem
+alcançar a minha propria senhoria, haviam de alcançar-te tambem, fatal e
+necessariamente. Responde, general, onde está Desdemona?
+
+--A dois passos d'aqui, e nada mais facil, para vós, de que mandal-a
+comparecer aqui e ouvirdes de seus labios as palavras que hão-de
+perder-me ou salvar-me, visto que daes mais valor ao testemunho de uma
+mulher do que ao juramento de um homem--respondeu Othello n'um tom de
+sentida amargura.
+
+--Como!--exclamou o Doge tão surprehendido como todos os circumstantes,
+e sem prestar attenção na maneira como o mouro pronunciára as ultimas
+palavras.--Dizes que está aqui Desdemona?
+
+--Sim--respondeu o general--disse.
+
+--Suponho--replicou gravemente o Doge,--que não ignoras que o sitio em
+que te encontras é o menos a proposito para gracejos?
+
+--Não gracejo nunca--respondeu com certo desdém Othello--Quando me
+dispuz a seguir os individuos que me enviaste, e depois de ter ouvido
+Brabancio insultar-me e ameaçar-me com pedir-vos justiça contra mim este
+mesma noute, considerei, como era logico, que necessitaria apresentar a
+melhor e a unica testemunha de confiança que póde fallar em meu favor.
+Por conseguinte, pedi ao meu tenente Cassio que fosse onde estava
+Desdemona e lhe rogasse em meu nome que o acompanhasse aqui, dizendo-lhe
+do que se tratava. Ora bem; como estou convencido de que Cassio terá
+cumprido as minhas ordens, pois é fiel e amigo até á morte, e jámais
+desobedeceu a quem serve, respondo como já disse, que bastará que que
+mandeis chamar Desdemona para que esta compareça ante o Conselho.
+
+Com effeito, apenas o Doge deu a um porteiro ordem de que mandasse
+entrar na sala a filha do senador Brabancio, esta apareceu vestida de
+branco, com o traje de noiva que talvez não tivesse tido tempo ainda de
+tirar. Surgiu bellissima na sua pallidez, e serena e firme como estatua
+de Diana.
+
+Brabancio e todos os circumstantes, exceptuando Othello, soltaram uma
+exclamação de surpreza e assombro, ao vel-a apparecer como visão
+celestial, e o Doge disse-lhe com voz affectuosa:
+
+--Approxima-te, preciosa Desdemona, e nada receis, porque a lei e o
+cavalheirismo te protegem!
+
+A joven aproximou-se com passo certo e firme da mesa do Conselho, sem
+parecer fixar a attenção em Othello nem no proprio pae, e parando a
+respeitosa distancia dos juizes, perguntou:
+
+--Que deseja sua Senhoria de mim?
+
+--Que respondas, sob juramento, ás perguntas que vou fazer-te, sem que o
+medo ou o pezo, nem nenhuma outra consideração humana, te façam occultar
+a verdade. Comprehendeste?
+
+--Perfeitamente--respondeu com sangue frio Desdemona--Devo advertir-vos,
+Senhoria, de que não tenho de que recear, e menos de que me envergonhar,
+e que os meus labios jámais se mancharam com a mentira.
+
+--Acredito e applaudo-te com toda a minha alma--disse o Doge com
+benevolencia--Agora, responde: conheces esse homem que está a tua
+direita?--e apontou, indicando Othello.
+
+--Sim, Senhoria, conhece-o e amo-o, porque é meu esposo ante Deus e ante
+os homens, ha tres horas; juro-o por Christo crucificado, assim como
+juro que esta noute, por minha propria vontade e sem que ninguem me
+compellisse nem sequer aconselhasse, abandonei a casa de meu pae para o
+seguir.
+
+--Mentira! gritou o velho senador desvairado pela colera--Essa mulher
+está louca, completamente louca! Se assim não fosse, nunca se atreveria
+a dizer, deante de mim, seu pae, semelhantes vergonhas.
+
+--Não são vergonhas, pae e senhor meu--replicou respeitosa mas
+firmemente a joven;--mas simples verdades: deixei a casa paterna para
+seguir meu marido, como, ha muitos annos, tu abandonaste aquella que era
+tua para seguir tua mulher.
+
+--Maldita, maldita sejas, filha desalmada e sem coração! Aborreço-te e
+amaldiçoo-te, e nunca mais tornarás a vêr teu pae! Juro-o pelos santos
+Evangelhos e pela fidalguia da minha raça. Adeus para sempre, e que a
+minha maldição te persiga por toda a parte!
+
+E completamente transtornado pela desesperação e pela ira que o
+suffocava, o implacavel velho abandonou, tremendo e cambaleando, a sala
+do conselho.
+
+--Não chores, preciosa Desdemona, disse o Doge affectuosamente á joven,
+ao vel-a enxugar as lagrimas que lhe inundavam as faces nacaradas.--A
+colera de teu pae, ainda que injusta até certo ponto, é no entanto
+explicavel.
+
+«Mas espero que tão depressa recobre a tranquilidade e o sangue frio,
+reflectirá e conquistarás de novo todo o seu carinho. No entanto,
+continuou dirigindo-se a Othello, devolvo-te a estima e a confiança que
+sempre tive no teu valor e na tua bem provada lealdade. Damos, pois, por
+terminado este enfadonho assumpto, e dispoe-te a emprehender viagem sem
+perda de tempo.
+
+--Viagem! exclamou Desdemona estupefacta. Como, Senhoria! Ides affastar
+assim de mim, tão de repente, o meu esposo, deixando-me na solidão e no
+abandono mais desconsoladores?
+
+--Assim é necessario, linda Desdemona! respondeu o Doge n'um tom
+compassivo. Crê que o lamento com toda a minha alma, mas exige-o a
+salvação e a honra da Republica.
+
+--E onde o mandaes? perguntou a triste desposada com a maior amargura.
+
+--A Chypre, que está ameaçada pelos turcos, e onde faz falta a presença
+do general mais habil e valente que tem o estado, disse o Doge.
+
+--Pois bem, respondeu a joven n'um tom de resolução inquebrantavel--irei
+tambem com elle a Chypre. Não diz o Apostolo que a mulher deve seguir o
+marido? Pois eu opponho-me com toda a minha alma a separar-me d'aquelle
+que a Providencia collocou no meu caminho.
+
+--Mas, e os perigos a que te vaes expor, indo na sua companhia? observou
+o Doge.
+
+--Não me importam. Seguil-o-hia, embora soubesse que caminhava para a
+morte, respondeu a corajosa joven.
+
+O Doge consultou Othello com o olhar, e este sentindo-se tacitamente
+apoiado pela poderosa Senhoria, atreveu-se a dizer:
+
+--Realmente, não vejo inconveniente em que minha esposa me siga, visto
+não receiar os perigos que vamos correr juntos. Por outro lado, a mulher
+de um guerreiro deve ser animosa, e além d'isto a sua presença, longe de
+diminuir ou quebrantar o meu valor ou os meus talentos militares,
+multipolical-os-ha até o infinito. Por consequencia, se sua Senhoria e o
+sabio e prudente Conselho não se oppõem a tal resolução, levarei minha
+esposa comigo á ilha de Chypre, para onde partirei d'aqui a uma hora.
+Mas, proseguiu, olhando para Desdemona, para poupar os riscos da viagem,
+peço ao Conselho que me auctorize a levar comigo todos os officiaes que
+me são dedicados e que estão acostumados a combater sob as minhas
+ordens. De este modo, se morrer em qualquer recontro com os turcos
+durante a expedição, sei que o meu tenente Cassio e o meu alferes Iago,
+que são meus irmãos de armas, velarão por minha mulher, como faria sua
+propria mãe.
+
+Assim ficou combinado e, passada uma hora, Othello e Desdemona, com os
+officiaes favoritos do general, embarcaram em direcção á ilha de Chypre.
+
+O que todos ignoravam a bordo, exceptuando o alferes Iago, que nem o
+confessou á propria mulher, Emilia, aia de Desdemona, era que, no mesmo
+navio que albergava os dois felizes esposos, ia tambem o nobre Rodrigo,
+sobrinho de Brabancio e primo de Desdemona, da qual estava loucamente
+apaixonado, e a cuja posse não renunciava, apezar de Iago lhe haver dado
+a noticia de que n'aquella madrugada se realisára o matrimonio da joven.
+
+Mas o alferes de Othello, dotado do maior cynismo, constando que o seu
+nobre amigo se desesperava, renunciando para sempre ao objecto da sua
+paixão ao comtemplal-o nos braços de outro, riu-se d'elle e quasi o
+obrigou a que o acompanhasse a Chypre, disfarçado de marinheiro,
+promettendo-lhe que, se, como havia dito antes, não lhe desobedecesse em
+coisa alguma, e muito menos lhe negasse o ouro que corrompe todas as
+consciencias, arranjaria tudo de fórma a n'um prazo curto, que nunca
+excederia um mez, a candida e innocente prima cahiria, louca de amor,
+nos braços do apaixonado primo.
+
+Mas, o que pretendia o mizeravel com tudo isto, era, sómente, enriquecer
+á custa das joias e do dinheiro de que havia obrigado a prover o ingenuo
+Rodrigo, e ter este como uma corda mais no arco, para quando chegasse o
+momento de disparar a envenenada flecha destinada a despedaçar o coração
+do homem generoso que o acolhera sob a sua protecção e lhe déra a sua
+amizade e o seu carinho, bem longe de suppôr que abrigava no seio a
+vibora, que depois havia de causar-lhe a morte com a mordedura venenosa.
+
+Mas não nos adeantemos aos acontecimentos, e sigamos passo a passo o
+curso da terrivel tragedia que chegou a immortalizar a perfidia de um
+invejoso e os ciumes de um amante, cujo unico crime consistiu em ser
+propenso ás paixões, e dispôr de tempera superior áquella em que está
+forjada a vulgaridade dos homens.
+
+
+
+
+III
+
+Em Chypre
+
+
+Duas outras galeras com um bom numero de soldados e infinidade de
+apetrechos de guerra, acompanhavam a capitanea que levava a insignia de
+Othello, e na qual este ia com Desdemona, os officiaes e o sobrinho de
+Brabancio, disfarçado de marujo.
+
+Com estes tres barcos, sómente, contava o general africano defrontar a
+poderosa esquadra turca, no caso de dar-se um recontro mais do que
+provavel, visto que os ottomanos, a avaliar pelas ultimas noticias
+recebidas no momento do embarque, deviam já navegar nas aguas de Chypre.
+
+Mas o heroismo e o talento militar de Othello suppriam tudo, e as
+tripulações dos tres navios confiavam tão cegamente no chefe, que quasi
+desejavam esse recontro em vez de o recear.
+
+Não obstante, a situação aggravou-se ao terceiro dia de viagem, até
+tornar-se desesperada, pois que furiosa tempestade fez sossobrar as duas
+galeras que acompanhavam a capitanea, e taes destroços causou n'esta,
+que, deixando-a raza como um pontão e pouco menos do que sem governo,
+pois o leme soffreu tambem graves avarias e as obras mortas ficaram
+feitas em pedaços, converteu-a em débil joguete das encrespadas e
+gigantescas ondas, que a faziam dançar sobre as espumosas cristas como
+fragil casca de nós.
+
+Ninguem, no emtanto, perdeu a coragem durante aquelle calamitoso transe,
+apezar de todos estarem firmemente convencidos de que soára para elles a
+ultima hora. Era que o exemplo de coragem e sangue frio de Othello e
+sobretudo de Desdemona, que não se apartou do esposo um só momento
+durante o perigo, seguindo-o por toda a parte com o sorriso nos labios e
+resolvida a morrer com elle, communicára-se a todos, e ninguem, ainda
+que a sentisse, queria dar provas de fraqueza, alli onde uma mulher era
+a primeira a fazer galla do mais extraordinario heroismo.
+
+Mas, por ultimo, no dia seguinte, e depois da noite verdadeiramente
+horrorosa aquietaram-se os elementos, o furacão diminuiu a furia e foi
+pouco a pouco acalmando até converter-se em brisa suave e acariciadora.
+O mar, que durante vinte horas mortaes parecera um Leviathan furioso,
+transformou-se, por fim, em Iago tranquillo.
+
+Os afortunados viajantes, salvos por verdadeiro milagre, não tardaram em
+encontrar, junto da desmantelada embarcação, terriveis e numerosos
+indicios dos destroços que havia causado em taes paragens a formidavel
+tormenta.
+
+Uma coisa, não obstante, feriu a viva imaginação de Othello. Extranhou
+ver a excessiva abundancia de cadaveres, restos de navios feitos em
+pedaços e destroços de toda a especie que fluctuavam sobre as ondas.
+
+Chegou um momento em que a ideia d'esses despojos o atormentára de tal
+modo, que teve necessidade de communical-a a alguem, pois queria a todo
+o transe ouvir, a tal respeito, outra opinião.
+
+Chamou por isto o tenente Cassio e o alferes Iago, e sentando-se com
+elles na tolda do navio, disse-lhes, mostrando o mar, que cada vez
+apparecia mais juncado de cadaveres:
+
+--Que me dizeis d'isto? Certo deve ter succedido grande catastrophe,
+pois de outro modo não se explica que haja tantas victimas e tantos
+restos de navios destroçados. Que opinião é a vossa?
+
+--Se fosse a esquadra turca?--atreveu-se a insinuar o tenente Cassio
+olhando para o chefe, em cujos olhos surprehendeu um relampago de
+alegria, ao ver que encontrava alguem, e nada menos do que um homem
+ponderado, que pensava como elle.
+
+--Neptuno foi tão propicio durante a vossa viagem, general, disse por
+sua vez Iago com servil adulação, que não admiraria nada que levasse a
+protecção que vos dispensou até ao extremo de livrar-vos sem combate dos
+vossos inimigos.
+
+--De qualquer maneira, respondeu Othello, sorrindo affavelmente ao
+alferes, seja ou não a Providencia que nos auxiliou, é indubitavel que
+não podemos queixar-nos da sorte, e que esta corôaria dignamente a sua
+obra e, ao chegar a Chypre, encontrassemos comprovada a opinião do
+tenente Cassio que, seja dito com franqueza, foi tambem a minha.
+
+Não tiveram de esperar pela chegada a Chypre para saberem da destruição
+da esquadra turca, de modo innegavel.
+
+N'aquelle mesmo dia encontraram uma lancha tripulada por seis naufragos,
+todos soldados otomanos, os quaes, depois de serem recolhidos no navio e
+tratados com todos os cuidados e attenções que a sua lamentavel situação
+exigia, agradecidos á generosidade que Othello usava para com elles, lhe
+contaram minuciosamente todos os detalhes da espantosa catastrophe, na
+qual desapparecera toda a esquadra, exceptuando duas embarcações que,
+partidas e sem léme, acabaram por perder-se no horizonte á vista dos
+naufragos, sem que pudessem dizer o que fôra d'ellas; mas a julgar pelo
+deploravel estado em que as havia posto a tempestade, era mais do que
+provavel que houvessem acabado por ser tambem tragadas pelo Oceano.
+
+Julgue-se, pois, a impressão que tão faustas noticias fariam nos ditosos
+viajantes, que viam desapparecer n'um minuto os perigos que ameaçavam a
+Republica de Veneza, para elles mil vezes mais temiveis e angustiosos,
+pois lhes tinham ameaçado até então a popria vida.
+
+Quando por fim a desarvorada galera capitanea fez a sua entrada
+triumphal no bellissimo porto da ilha de Chypre, onde já era tambem
+conhecida a destruição da esquadra turca, o regosijo e a alegria não
+tiveram limites; Othello e Desdemona foram recebidos com o fervente
+enthusiasmo que só se tributa aos heroes, e toda a população distincta
+da ilha, com o governador Montano á frente, correu a visital-os ao
+palacio em que se haviam installado, para tributar-lhes sincera e franca
+homenagem de admiração e de estima.
+
+Othello, pela sua parte, ao assumir, n'aquella mesma tarde, o comando
+supremo de Chypre, decretou em nome da Republica veneziana festas geraes
+durante todo o resto do dia e até á meia noute, para que o povo
+celebrasse, cada qual consoante a sua vontade e gosto, o ter-se livrado,
+tão feliz como inopinadamente, do terrivel e feroz inimigo que
+pretendera apoderar-se da ilha.
+
+Em seguida, e apenas anoiteceu, retirou-se para o Palacio em companhia
+de Desdemona, pedindo a Montano para ainda fazer as suas vezes durante a
+noute, pois alem de estar fatigado, devido á accidentada viagem, era
+essa tambem a primeira noite em que, desde que se unira a Desdemona,
+podia encontrar-se a sós e tranquillo com a formosa e virginal esposa.
+
+Montano, como póde suppor-se, accedeu promptamente ao desejo do general
+governador de Chypre, offerecendo-lhe cumprir o seu encargo de vigiar
+cuidadosamente os guardas durante a noute, tanto para acudir ás
+desordens e escandalos resultantes de todas as festas populares, como
+para não abandonar a vigilancia do porto que, não obstante o desastre
+casual soffrido pelos turcos, era presa demasiado cubiçada por elles
+para se descurar, um momento que fosse, observando com semelhante
+prevenção o famoso e prudente proverbio latino _si vis pacem, para
+bellum_, que deve ser sempre a divisa de todo o bom militar.
+
+Caiu a noute sobre Chypre com os melhores auspicios e em meio da alegria
+de todos os seus habitantes que, já livres das tristes preoccupações que
+os haviam atormentado até ali se entregaram inteiramente ao gozo das
+festas que haviam organizado.
+
+Ao dizermos todos os habitantes, devemos descontar dois muito nossos
+conhecidos, que já não participavam do regosijo commum, e recolhidos
+n'um angulo do edificio que servia de quartel á guarda encarregada da
+vigilancia do porto, conversavam animadamente e em voz baixa de assumpto
+que, a julgar pelo aspecto e gestos de ambos os interlocutores, devia
+ser de grande interesse para elles.
+
+Estes dois personagens eram Iago, o alferes de Othello e o seu nobre
+companheiro Rodrigo, sobrinho de Barbancio e desprezado amante de
+Desdemona, o qual não deixára ainda o disfarce de marinheiro, por assim
+o ter aconselhado o amigo, como medida de prudencia.
+
+O dialogo que segue porá os nossos leitores ao corrente do assumpto que
+tratavam, e que, como já terão advinhado, não era outro senão o dos
+desditosos amores da ingenua victima do alferes.
+
+--A avaliar por quanto pude ver desde que sahi de Veneza, dizia Rodrigo
+ao companheiro, asseguro-te que, se não fôres o proprio diabo em pessoa,
+te será difficil que eu consiga o amor da minha bella prima, que dia a
+dia me parece mais enamorada do horroroso marido.
+
+--Trouxeste comtigo todas as joias e quanto dinheiro podeste reunir,
+segundo prometteste? perguntou tranquillamente Yago, sem dar a menor
+attenção ás palavras do amigo.
+
+--Nas minhas malas tenho todas as alfaias de familia, que valem para
+cima de dez mil escudos de ouro, e quasi outro tanto em moedas novas
+venezianas e genovezas, respondeu Rodrigo.
+
+--Com menos de metade se comprava, seduzia e conquistava uma rainha,
+ainda que abrigasse no seio um coração mais duro que as afiadas garras
+do leão de S. Marcos, disse o alferes em cujos olhos brilhou um clarão
+de cobiça, ao ouvir as palavras do companheiro.
+
+--Não proponho comprar Desdemona, replicou este, por duas razões: a
+primeira porque a conheço bem e estou certo que não é mulher que se
+venda; e a segunda porque receberia um amor que se daria por dinheiro e
+não por natural correspondencia á paixão que inspira a mulher amada.
+
+--Ta! ta! ta! cantarolou cynicamente Yago, tudo isso são cantatas, bôas,
+quando muito, para servir de assumpto a rimances cantados por
+trovadores, depois de opipara ceia em noute de festa. A tua bella prima
+é como todas as mulheres, e todas as mulheres são como as andorinhas.
+Namoram-se de tudo quanto brilha; por isso tua prima se enamorou de
+Othello, porque a seus olhos brilhou mais do que todos os nobres
+venezianos, devido ao inegavel esplendor das suas maravilhosas proezas.
+
+--Que devo então fazer? perguntou Rodrigo, contemplando Yago com
+irritação não isenta de espanto. Não me asseguraste que Desdemona está
+enamorada do marido?
+
+--Nem mais, nem menos, respondeu fleugmaticamente Yago. Mas, por
+dizer-te que está enamorada, não significa semelhante affirmação que o
+esteja sempre. O amor de tua prima, nobre Rodrigo, crê piamente no que
+digo, pois sou homem de experiencia, não é amor verdadeiro, mas
+ficticio; o que poderiamos chamar amôr de imaginação.
+
+--Como! exclamou, cada vez mais surprehendido, o joven veneziano.
+
+--O que acabo de proferir, continuou o alferes, é precisamente a phrase
+approximada e perdoa que me gabe ao dizer-te que muito feliz fui em a
+ter encontrado: um amor de imaginação. O brilho que vê em Othello, e que
+a deslumbrou, não é outra coisa senão o que se vê nos heroes dos
+romances, que é precisamente como se apresenta o marido aos olhos de
+Desdemona. Ella vê o heroe, sempre o heroe. Pergunta-lhe pelo homem, e
+não saberá responder-te.
+
+--Porquê? perguntou Rodrigo, verdadeiramente interessado.
+
+--Simplesmente porque o homem não existe para ella nem, felizmente para
+o que respeita a Othello, se preoccupa de procural-o; no dia em que tal
+faça, o marido está perdido e o mesmo será no dia em que o encontre.
+
+--Não te comprehendo, interrompeu o joven veneziano, que, como todos os
+seus eguaes d'essa epocha, estava pouco habituado a torturar o cerebro,
+sentia enorme confusão perante semelhante embroglio para elle
+inintelligivel.
+
+--Porque não queres comprehender-me, replicou Yago com a mesma
+tranquilidade do gato que brinca cem o rato. E se não, continuou
+dizendo, ouve-me attentamente e verás como te explico tudo, em quatro
+palavras, verás como entendes: tua prima é mulher, não é verdade?
+
+--Essa é de cabo de esquadra! exclamou irritado Rodrigo. Pois que outra
+coisa poderia ser?
+
+--Não te abespinhes, homem, não te abespinhes! De vagar se vae ao longe
+e nao tardarei em chegar onde quero, disse o alferes que, semelhante
+n'isto a todos os miseraveis, se comprazia em atormentar a victima.
+Responde: é mulher ou não?
+
+--Quem duvida?
+
+--Ninguem, por certo. Ora como mulher, necessitará de um homem que lhe
+satisfaça as exigencias do organismo; um homem que ame fisicamente,
+entendes-me agora, alma de cantaro? _fisicamente_, porque o amor
+_fisico_ é o unico que póde convir á vida de uma mulher, quando as
+paixões imaginativas e novelescas, como a agora experimentada por ella,
+se evaporam e fogem ante a fortaleza brutal dos gritos da carne.
+
+--Bem, de accordo, respondeu Rodrigo que ia começando a comprehender o
+companheiro.--Mas aonde queres tu ir parar com todas essas philosophias?
+
+--Simplesmente a uma conclusão que não admitte duvidas: tua prima está
+hoje satisfeita e enamorada porque não vê mais do que o lado poetico do
+marido, e ainda não se fixou na cara, linguagem, gestos, e no mais que
+n'elle existe de tosco, de selvagem e de brutal. Mas como o seu amor não
+póde alimentar-se de sonhos, e um beijo dado por uns labios humidos e
+vermelhos vale mais para uma mulher do que toda a poesia do mundo, no
+dia em que esse tigre africano despertar torpemente a carne da mulher, o
+que n'este momento está fazendo, asseguro-te que, ou não ha senso commum
+sobre a terra, ou apenas Desdemona se inteire do que então ignorava,
+quer dizer, de que tem sexo, o negro estará perdido para ella, completa
+e irremediavelmente perdido. Talvez, nas suas horas de tédio, o recorde
+e até careça d'elle, como se recorda e se carece, em determinados
+momentos, de uma historia interessante ou de um fragmento de poema; mas,
+durante os parentesis da realidade, que são os maiores da vida,
+precisamos todos, e ella tambem, coisa mais substanciosa e mais pratica:
+o gastrónomo, carne fresca e appetitosa que desfaça nos dentes; e o
+amante, carne mais fresca e mais appetitosa que lhe palpite nos braços!
+Já vês que n'este pobre mundo tudo é questão de carne, meu caro amigo!
+Ah! ah! ah!
+
+E, ao dizer estas palavras o miseravel soltou uma gargalhada cynica e
+estrepitosa, gozando em desfolhar, uma a uma, as poucas flôres da
+illusão que ainda vicejavam no coração de Rodrigo.
+
+--Assim, pois, continuou dizendo quando acabou de rir, confia em mim e
+não tortures a cabeça com supplicios inuteis.
+
+«A noiva de Othello será tua, porque assim jurei e não falto nunca aos
+meus juramentos, disse com um sorriso de escarneo quasi imperceptivel. E
+proseguiu acto continuo:
+
+«Apenas terás de me ir entregando joias e dinheiro, á medida que eu vá
+pedindo, para captivar com ellas o coração de minha mulher, que é o anjo
+da guarda do Paraiso, e seduzir tambem a coração de Desdemona. Já vês
+que sou imparcial na minha opinião com respeito a mulheres, terminou o
+mizeravel, pois que não sendo a minha das peores, não lhe dou mais valor
+do que positivamente tem.
+
+--E julgas, realmente, que Desdemona se deixará captivar por fim, com
+dadivas e presentes? perguntou o infeliz apaixonado, cuja certeza a
+respeito da virtude da prima começava a fraquejar, combatida
+simultaneamente pelos proprios desejos e pelas perfidas theorias do ruim
+amigo.
+
+--Dá tempo ao tempo e depois te convencerás do que digo, proseguiu Iago
+com a firmeza de quem tem certo o triumpho.
+
+«Dá-me tudo o que te pedir e deixa o resto por minha conta. Não te
+preoccupes mais com tal assumpto e presta attenção, e ao dizer estas
+palavras baixou a voz e adoptou uma attitude mysteriosa; ha outra coisa
+e outra pessoa que constituem um grande perigo para os teus amores.
+
+--Que queres dizer?--perguntou Rodrigo sobresaltado.
+
+«Explica-te mais claramente porque os teus enigmas apenas servem para me
+atormentar.
+
+--Não tens reparado na assiduidade com que o tenente Cassio segue para
+toda a parte Desdemona, e na singular preferencia que esta lhe dispensa
+constantemente, mesmo na presença do esposo?
+
+--É certo! exclamou Rodrigo empallidecendo; até agora ainda não tinha
+dado importancia a semelhantes detalhes; mas acabas de abrir-me os
+olhos, e não ha duvida que tens razão de sobra para assim fallares. Que
+infame! acabará, talvez, por entender-se com Cassio, procurando n'elle o
+homem a que ha pouco te referias? Se assim fôr, posso perder as ultimas
+esperanças, pois o meu amor não se verá jámais correspondido!
+
+--Enganas-te, porque estou eu aqui para o evitar respondeu Iago,
+fingindo carinho affectuoso.--Tenho o meu plano. Esta noute preciso que
+me ajudes, para varrer esse empecilho, de fórma que não torne a
+molestar-nos em vida.
+
+--Como?--perguntou Rodrigo.
+
+--É muito simples; primeiro que tudo, é perciso fazer que Cassio, perca
+a estima de que desfructa junto de Othello, e que este o demitta do seu
+posto de tenente, para dar-m'o. D'este modo, affastado para sempre do
+general, não terá pretexto para approximar-se de Desdemona e todas as
+suas seducções e artificios resultarão completamente inuteis. Entretanto
+eu, investido nas funcções do meu novo cargo, poderei converter-me em
+sombra do mouro e, por conseguinte, de tua prima, e não me parece
+necessario encarecer as vantagens que poderás tirar d'isto para os teus
+amores.
+
+--É certo!--exclamou o moço veneziano, contemplando com admiração e
+gratidão o amigo--Mas como te vais arranjar para levar a cabo o teu
+plano e em que poderei auxiliar-te?
+
+--Da maneira seguinte: d'aqui a uma hora, pouco mais ou menos, vou cear
+em companhia de Montano e de Cassio no quartel que existe n'este mesmo
+edificio. O tenente é tão mau bebedor que não póde resistir a um só copo
+do riquissimo vinho d'esta ilha. Ora bem; hei de fazer o possivel para
+que beba dois ou tres, o que bastará para o embriagar como a qualquer
+mendigo e, em seguida, busca sahir-lhe ao caminho e, sem o provocar,
+farás que te dirija algum insulto, cousa que não será difficil, porque
+quando está bebedo, é aggressivo. Replicar-lhe-has acto continuo e
+continuarás discutindo até conseguires que te bata. Como farás tudo
+isto, procurando não te affastares do quartel, onde se effectuará a
+ceia, gritarás de modo que Montano e eu possamos ouvir-te. Então
+acudiremos ambos, eu occupar-me-hei de ti, e deixaremos que os dois se
+entendam, na certeza de que Cassio, homem sereno e senhor de si quando
+está no estado normal, é indiabradamente provocador e insultante quando
+se embriaga, o que lhe succede poucas vezes na vida, e não deixará de
+puchar pela espada para responder com ella ás amigaveis indicações que
+lhe dirija Montano; fará sangue, certamente, e então entrarei eu em
+scena para armar tal escandalo, que Othello terá de inteirar-se
+necessariamente do caso. Ora bem; como não transigiria nem com o proprio
+filho em pontos de disciplina, surprehenderá Cassio em falta grave,
+precisamente no momento de guarda, e affirmo-te que o teu provavel rival
+não tornará a pôr no peito a divisa de tenente, que passará a ser minha,
+e que, a partir d'esta noute, poderás viver completamente tranquillo.
+
+--E estás bem seguro do teu plano?--perguntou Rodrigo ao alferes, quando
+este acabou de narrar o infame projecto, que o joven veneziano escutára
+com profunda attenção.
+
+--Certissimo--respondeu Iago--Só preciso que prestes o serviço que te
+peço.
+
+--Conta comigo--prometteu o sobrinho de Brabancio, decidido a tudo para
+conseguir o amor de Desdemona.
+
+--Então, mãos á obra--respondeu o alferes levantando-se e apertando a
+mão do companheiro.--N'este mesmo sitio estás perfeitamente para fazeres
+quanto te indiquei, porque Cassio sahirá por aquella porta--apontou,
+indicando uma que havia a poucos metros de distancia.--Espera-o aqui,
+executa fielmente as minhas instruções, e não duvides de que o triumpho
+será nosso.
+
+E, acto continuo, o miseravel despediu-se do ingenuo Rodrigo e correu a
+pôr em pratica o diabolico plano que concebera, não para ajudar o
+companheiro nos seus amores, como promettera, mas para perder um
+innocente a quem invejava, e supplantal-o no posto e no affecto de
+Othello.
+
+      *      *      *      *      *
+
+Duas horas depois, o sino de alarme tocava desabaladamente no quartel
+situado junto da doca do porto, pondo em alvoroço toda a ilha, que
+começava a entregar-se ao somno passada a agitação da festa, e obrigando
+a saltar do leito, em sobresalto, o proprio Othello, que repousava
+docemente entre os bellissimos braços de Desdemona.
+
+
+
+
+CAPITULO IV
+
+O traidor
+
+
+A minuciosa exposição que Yago fizéra a Rodrigo do plano que tinha
+in-mente, bastaria para que os nossos leitores tivessem noticia exacta
+de quanto havia succedido durante as duas horas que passaram desde a
+separação dos dois amigos até o momento em que o inesperado toque do
+sino de alarme levou a inquietação e o desassocego a todos os habitantes
+de Chypre, incluindo n'este numero o proprio Othello.
+
+Mas, se, para maior clareza da narração é imprescindivel por um lado
+conhecer a descripção pormenorisada do succedido e assim chegar ao
+desenlace d'esta tragica historia sem uma solução de continuidade que
+prejudicaria notavelmente a comprehensão dos factos; pelo outro, seria
+impossivel, omittindo tal narração, seguir passo a passo as
+interessantes e accidentadas peripecias do complicado drama cuja base
+principal assenta na ambição e na inveja de uma alma perversa, nascida
+para a infamia e para o crime.
+
+Assim, sigamos Iago no momento em que, ao separar-se do primo de
+Desdemona, entrou no quartel onde, á entrada, o estavam esperando para a
+ceia o tenente Cassio e o nobre Montano, governador da ilha de Chypre e
+representante da Republica Veneziana, na ausencia de Othello.
+
+--Boa noite, prudente Cassio; saude e prosperidade, illustre Montano,
+cumprimentou o alferes ao entrar, dirigindo-se aos companheiros e
+superiores.
+
+--Graças a Deus que vieste; julgavamos que tivesses esquecido que te
+esperavamos! exclamou Cassio ao vêr entrar o amigo.
+
+--Pelo que prevejo, interrompeu Montano esboçando um sorriso malicioso,
+este bom Iago, apezar de ter uma esposa deveras formosa, não faz má cara
+ás mulheres do proximo, especialmente quando são jovens lindas; e como
+abundam em Chypre as que reunem estas duas qualidades, graças sejam
+dadas ao Amôr e a Venus, certamente se atrazou, dando uma volta pelas
+ruas da ilha, com o perverso proposito de render alguns corações mais do
+seu gosto.
+
+--Acertaria no alvo o vosso gracejo, se visasseis o nosso tenente, que
+tem, na verdade, fama de irresistivel com as bellas, replicou Iago
+esboçando um sorriso intencionado, de que só elle percebeu a
+transcendencia. Quanto a mim detesto as saias, por instincto de
+conservação, e não trocaria uma só garrafa de bom vinho de Chypre por
+todas as mulheres casadas, viuvas ou solteiras, que vivem na ilha.
+
+--Parece-me, Iago, observou Cassio affectuosamente, que acabas de fazer
+duas affirmações duplamente exaggeradas: uma, aquella em que alludes á
+minha boa estrella junto das bellas, que seja dito de passagem, só
+existe na tua imaginação, pois confesso-te que, até agora, não tenho na
+minha folha de serviços uma só conquista que valha referencia.
+
+--Nunca é tarde quando a sorte nos sorri, replicou astutamente Iago.
+
+«Ha quem assegure que estás a caminho de entrar por assalto n'uma praça
+que mais de um nobre veneziano, teu compatriota, invejaria.
+
+--Não te comprehendo, respondeu Cassio com estupefacção tão profunda
+como sincera retratada no semblante.
+
+--Saibamos, saibamos que praça é essa e veremos se é digna de disputal-a
+o bello Cassio! exclamou alegremente Montano.
+
+--Se elle guarda segredo, não sou eu que tenho o direito de desvendal-o,
+disse hypocritamente o alferes.
+
+--Guardo segredo porque não sei a que aventura te referes, respondeu
+Cassio de boa fé. Explica-te, peço, porque conseguiste intrigar-me.
+
+--Modestia, pura modestia, discreção levada até á mudez! disse rindo o
+alferes. Cassio, felicito-te porque és um cavalleiro digno de ter vivido
+nos bons tempos do rei Arthur. Mas, continuou, dando deliberadamente
+outro rumo á intencional charada, cada vez me convenço mais de que o
+mundo está cheio de paradoxos e nós proprios o somos.
+
+--Porquê? perguntou Montano com estranheza.
+
+--Nada mais simples, respondeu Iago. Vocês esperavam-me com impaciencia,
+o que evidentemente accusa um apetite devorador; por minha parte tambem
+declaro que não vinha menos resolvido a entender-me com uma boa ceia.
+Pois bem, em vez de aproveitarmos o tempo predispondo o estomago com
+meia duzia d'essas veneraveis garrafas que nos escutam, para entrarmos
+depois heroicamente pelos manjares, estamol'o perdendo lastimosamente,
+fallando de mulheres, isto é, do assumpto menos substancial e mais
+perigoso que pode tratar-se entre cavalleiros.
+
+--Indubitavelmente esta noute estás pouco amavel e galanteador para as
+damas, valente Iago, respondeu Montano rindo.
+
+--Nem mais nem menos do que n'outras occasiões e nem menos nem mais do
+que o merecem, disse Iago.
+
+E passando em revista meticulosa as garrafas poeirentas que se viam
+sobre a mesa artisticamente posta, pegou n'uma de respeitavel
+antiguidade, a julgar pelo aspecto e pela marca que ostentava na rolha,
+abriu-a e encheu de riquissimo e perfumado vinho os copos dos
+companheiros e o d'elle. Seguidamente e sem dizer palavra, bebeu-o de um
+trago e fez estalar a lingua com a placida expressão de um bebedor
+satisfeito.
+
+Montano fez com o copo o mesmo que Iago fizera com o d'elle; mas o
+tenente Cassio contentou-se com leval-o aos labios e humedecel-os
+ligeiramente com o dourado nectar.
+
+--Como! exclamou Iago apparentando indignação e assombro ao ver que o
+seu amigo voltava a por sobre a mesa o copo tão cheio como o levantára.
+Não bebes comnosco, ou não aprecias este vinho, herdeiro directo da
+sagrada ambrosia com que Jupiter obsequiava de vez em quando os seus
+amigos do Olympo? ignoras, por ventura, desgraçado, que o vinho de
+Chypre foi consagrado pela historia, atravez dos seculos, até que
+vencendo o seu rival Falerno, teve a honra de toldar com frequencia o
+cerebro de Alexandre, de produzir as gloriosas alegrias de Alcibiades,
+de servir de vehiculo para o veneno que matou Britanico e de inspirar os
+versos de Nero e os pontapés que o imperial artista dava em Popêa para a
+expulsar dos festins, quando o estorvava nos seus desabafos amorosos com
+os mancebos romanos? Ignoravas isto, infeliz? Pois bem, é um peccado de
+lesa ignorancia, indesculpavel n'um homem ponderado como tu; mas, apesar
+de tudo, Montano e eu perdoamos-te com a melhor vontade do mundo, dado
+que honres o historico vinho como nós o honramos.
+
+--Nunca bebo! respondeu gravemente Cassio.
+
+--Porquê? perguntou com curiosidade Montano. É talvez algum juramento?
+
+--Não, respondeu o tenente; a minha repugnancia em beber obedece sómente
+a que o vinho me ataca de tal modo a cabeça, que basta um copo para
+transtornar-me por completo e fazer de mim um homem absolutamente
+diverso de que sou no estado normal.
+
+--Mas ceando, aventurou Iago, é outra coisa, e affirmo que não te
+succederá mal algum. Além d'isso, proseguiu alegremente para animar o
+companheiro, estás entre amigos e, se a bebedeira te der para dormir,
+mandar-te-hemos deitar n'um fôfo e confortavel leito, ou então
+rir-nos-hemos se te der para nos insultar.
+
+--Um homem embriagado é um ente desprezivel, e por cousa alguma d'este
+mundo consentiria em chegar a semelhante e lastimoso estado.
+
+--Pois bem, disse deliberadamente Iago; ceêmos; de qualquer forma,
+affirmo que saberei obrigar-te a brindar comnosco, dado o caso que o
+nosso exemplo não te leve por motu proprio a provar o historico nectar.
+
+Acto continuo serviram-se os primeiros pratos, e durante minutos apenas
+se ouviu o ruido produzido pelos dentes ao triturarem os tenros ossos
+das presas que devoraram.
+
+Inesperadamente Iago levantou-se e enchendo os dois copos que ainda
+estavam vasios, pegou no d'elle e brindou:
+
+--Pelo feliz matrimonio do nosso general e para que nunca veja
+perturbado com a mais ligeira nuvem o céu de seus amores com a bella
+Desdemona.
+
+E dirigindo-se a Cassio, accrescentou:
+
+--Atreve-te a recusar este brinde, e asseguro-te que Othello nunca te
+perdoará a descortezia, se um dia vier a sabel'a.
+
+Cassio vacillou um segundo; mas, instado por Montano, que juntou os seus
+rogos aos do alferes, pegou no copo e bebeu-o de um trago dizendo:
+
+--Á saude do general, e pela eterna felicidade do seu matrimonio!
+
+E em seguida cahiu na cadeira, sombrio e taciturno, como arrependido de
+ter quebrado tão facilmente a resolução de permanecer sobrio.
+
+Continuou a ceia, animada pela pittoresca conversação do alferes e pela
+alegria natural e espontanea de Montano, e, passado algum tempo, o
+primeiro voltou a erguer-se, encheu novamente os trez copos, e disse
+levantando o seu:
+
+--Brindemos pela gloria e prosperidade de Veneza e pelo triumpho das
+suas armas sobre todos os inimigos!
+
+Montano e elle emborcaram os copos d'um só trago; mas o tenente, sem
+despejar o seu, disse em tom resoluto:
+
+--D'esta vez não beberei, já lhes fiz a vontade, apezar de contrariado,
+e por isso espero que não insistam mais.
+
+--Prevês o que se dirá, replicou Iago, sem dar importancia ás palavras
+do amigo, quando se souber, e saber-se-ha comcerteza, porque as paredes
+teem ouvidos, que não quizeste brindar pela gloria de Veneza, depois de
+ter brindado pela felicidade do homem que te protege? Pois toda a gente
+affirmará, continuou, sem parecer notar o olhar colérico que lhe dirigia
+o companheiro, que não passas d'um adulador egoista, que pretende afagar
+os poderosos, para medrar á sombra d'elles, e que, como florentino
+afinal, te importa pouco que a Republica triumphe ou seja derrotada
+pelos seus inimigos.
+
+Cassio cravou no miseravel um olhar ameaçador e apertando
+convulsivamente os queixos um contra o outro, como para conter as
+palavras que estavam prestes a escapar-lhe dos labios, pegou no copo e
+bebeu nervosamente até á ultima gôtta.
+
+Outra vez proseguiu a scena, e foi então Montano quem, excitado já pelas
+libações, ainda que bastante senhor de si, encheu os tres copos e disse
+apresentando o seu:
+
+--Pela total ruina do poderio turco, e para que o leão de S. Marcos
+destroce, definitivamente, nas suas garras, a orgulhosa meia lua!
+
+O tenente Cassio, sem que em tal momento tivesse ninguem que o
+provocasse, foi o primeiro a tocar no copo do nobre anfitrião.
+
+Mas, apenas bebeu o vinho que continha, soltou uma blasphemia, e
+cravando no alferes os olhos esgazeados, cuspiu-lhe á cara este insulto:
+
+--Iago, és um miseravel!
+
+Immediatamente arremessou o copo contra o solo e sahiu, cambaleando.
+
+--É melhor seguil-o, pois vae em mau estado e pode praticar qualquer
+disparate! observou prudentemente Montano.
+
+--Não te preoccupes com elle, illustre amigo, replicou Iago com
+indifferença. Já desabafou commigo e agora irá direitinho deitar-se e
+curtir a bebedeira.
+
+«Conheço-o perfeitamente, pois ha muito tempo que o acompanho e sei que
+isto lhe succede com frequencia.
+
+--Como! exclamou Montano admirado. Pois não nos affirmou que nunca bebe?
+
+--Ora! respondeu o miseravel. Isso dizem por causa do general todos os
+bebedos que resistem pouco e teem, além de medo, mau vinho!
+
+«Aposto dez escudos de ouro em como terás encontrado em tua vida muitos
+homens, que, como Cassio, teem, poderiamos assim chamar-lhe, o pudor da
+bebedeira, porque, quando recobram a razão, se envergonham da conducta
+que tiveram durante o estado de embriaguez.
+
+«Isto, porem, rematou Iago, com malevola intenção, não os impede de
+tornar a beber, fazendo-se algo rogados para cobrir as apparencias e
+desculpar o juramento que costumam fazer a miudo, e de que se
+arrependessem nas occasiões opportunas.
+
+--É certo! disse Montano convencido. Confesso, porém, ter chegado a
+acreditar ser Cassio um homem de caracter, incapaz das ridiculas pechas
+dos espiritos fracos. Desprezo os homens que não teem o valor da
+convicção das suas qualidades e dos seus vicios, e nunca pensei que o
+tenente de Othello pertencesse a semelhante classe de individuos.
+
+--Porque não o conheces, volveu perfidamente Iago. Quanto a mim, estou
+habituado a estas scenas, e, como sempre que bebe, me insulta, ouço os
+ultrages como quem escuta a chuva. Isto te foi dado observar ha pouco.
+
+--Sem duvida, disse Montano n'um tom affectuoso. Bem pode dizer esse
+bebedo que tem em ti um verdadeiro amigo.
+
+--Sim, estimo-o, respondeu Iago, e prefiro, por isso, que desabafe
+comigo, a que o faça com outro qualquer; pois o insulto poderia
+acarretar-lhe desgosto sério, como já por vezes tem estado a ponto de
+succeder-lhe, quando não me encontro junto d'elle.
+
+--Mas, pôe-se de tal modo quando bebe? Perguntou Montano.
+
+--É verdadeiramente insupportavel; para qualquer outro que não tenha a
+minha paciencia, torna-se aggressivo e turbulento, e não ha meio de
+reprimir-lhe as insolencias senão castigando-o severamente.
+
+--N'esse caso, observou Montano em tom de pezar, repito que fizemos mal
+em o deixar sair d'aqui... Quem sabe, se...
+
+Não poude terminar a phrase, porque n'aquelle momento faziam-se ouvir,
+não longe d'ambos, os gritos espantosos de um homen que pedia auxilio
+desesperadamente, e antes que tivessem tempo de se refazerem da
+surpreza, entrou na sala, com flecha, um individuo vestido de
+marinheiro, que vinha seguido de perto pelo tenente Cassio. Este
+proferia a tropel blasphemias e maldições agitando a espada que
+empunhava.
+
+--Hei de espetar-te como um frango, meu grande tratante! gritou o
+tenente ao entrar em casa, apóz o marinheiro, o qual, como já terão
+adivinhado não era outro senão Rodrigo, que havia seguido fielmente as
+instrucções dadas por Iago para a execução do plano.
+
+--Socorro, socorro, que me mata! gritou Rodrigo com voz que reboou por
+todo o edificio, despertando os homens de armas.
+
+--Alto ahi, amigo Cassio! exclamou Montano severamente. O que fazes não
+é proprio de cavalleiro!
+
+--Se ha aqui alguem que não seja cavalleiro, esse és tu, covarde
+defensor de malandrins, respondeu gritando Cassio, emquanto ameaçava de
+tal modo Montano com a ponta da espada, que o defensor de Chypre teve de
+dar um salto para traz e arrancar da que trazia para defender-se, pois
+corria o risco de ter o peito atravessado pela lamina do adversario.
+
+Limitou-se, porém, a aparar os ataques furiosos que lhe dirigia o
+tenente, completamente fóra de si, emquanto Rodrigo, Iago e os soldados
+que haviam acudido, armavam tal barulho com as exclamações e gritos, que
+o escandalo não tardou em propagar-se desde o porto até ás primeiras
+ruas da ilha cujos pacificos habitantes perguntavam assustados o que se
+passava, julgando-se ameaçados por qualquer invasão de turcos.
+
+Entretanto seguia Montano defendendo-se dos ataques do tenente. Mas, num
+movimento que fez, ao aparar terceira estocada, teve a desgraça de
+ferir-se, ficando a descoberto, e recebendo em pleno peito a ponta da
+espada do adversario, que se lhe enterrou duas pollegadss na carne.
+
+Cahiu no solo o nobre patriota, emtanto que os soldados conseguiam
+desarmar Cassio, que ficára como attonito ao ver Montano por terra.
+Entretanto Iago escapou-se sem ser visto e logrou assim chegar até o
+sitio onde estava a sineta de alarme, pela qual puxou furiosamente por
+bom espaço de tempo.
+
+Os repetidos e violentos toques acabaram de pôr em alvoroço toda a ilha,
+cujos moradores saltavam apressados dos leitos, tomados do maior panico.
+
+Armou-se uma confusão indescriptivel, e um dos primeiros a abandonar o
+repouso e armar-se foi Othello, que, depois de acalmar quanto possivel a
+inquietação de Desdemona, sahiu do palacio, seguido de alguns officiaes,
+para inquirir as causas de semelhante escandalo nocturno.
+
+Não tardou em averiguar que a origem do reboliço partira do corpo da
+guarda situado no porto; e quando, ao apresentar-se alli, encontrou
+Montano ferido, Cassio desarmado e preso de um atordoamento
+indiscriptivel, que lhe impedia dar qualquer explicação, e Iago
+lamentando-se tragicamente do occorrido, ficou profundamente admirado;
+não tardou, porém, em succeder ao assombro uma cólera tal, que fez
+estremecer de terror quantos conheciam os terriveis arrebatamentos de
+tal homem, exceptuando o alferes que, longe de atemorizar-se ao ver o
+general dementado pela colera, sentiu o maior jubilo, enforçando-se
+todavia para não o dar a conhecer, porque, por muito, que devesse
+regosijar-se ao ver o exito alcançado pelo seu infame plano, a
+manifestação mais ligeira de tal regosijo teria sido uma imprudencia que
+lhe podia custar cara.
+
+Conseguintemente, em vez de se mostrar satisfeito, accentuou mais ainda
+a tristeza da attitude e o tom das lamentações, e quando Othello lhe
+ordenou severamente que o informasse de todo o occorrido, o miseravel
+fez um relato permenorisado, tratando de desculpar apparentemente o
+amigo, mas, na realidade, aggravando de tal modo a sua conducta e as
+consequencias possiveis do escandalo a que havia dado logar em taes
+circumstancias, empregando phrases tão campciosas como intencionadas,
+lamentando com tão bem simulada sinceridade que por uma ligeira
+imprudencia, segundo elle dizia, se tivesse chegado até ao extremo de
+tocar o sino de alarme e interrompido o somno do seu general; fez
+resaltar, em seguida, com, tão perfida astucia, o desastroso effeito que
+a grave ferida do nobre compatriota podia causar nos habitantes da ilha,
+ainda que, segundo accrescentou, Cassio nunca fizera tal cousa a não ser
+sob o imperio da embriaguez; apresentou n'uma palavra, tão avultados os
+factos, fingindo diminuil-os, que, quando acabou a narração,
+condimentada com protestos de lealdade para com Othello e de sincero
+affecto para Cassio, o general completamente enganado pelas palavras do
+traidor, e muito mais irritado contra o tenente do que antes de ter
+ouvido Iago, estendeu-lhe afectuosamente a mão, e disse:
+
+--Vejo que te conduzes para comigo com a mesma prudencia e fidelidade de
+sempre, emquanto este homem, e indicou Cassio que permanecia a alguma
+distancia, aguardando ordens e já completamente sereno, abusa da minha
+confiança pelo modo indigno como procedeu esta noute.
+
+«Pois bem: saberei dar a cada um o que em justiça lhe corresponde. Tu,
+meu bom e fiel Iago, não continuarás muito tempo sendo alferes,
+prometto; e quanto ao que diz respeito, accrescentou levantando a voz e
+dirigindo-se a Cassio, a partir d'este momento ficas exonerado do teu
+cargo de tenente e privado da minha amizade, de que tão indigno te
+mostraste.
+
+--Mas general, tratou de intervir hipocritamente Iago, emquanto lhe
+brilhava nos olhos um fugitivo relampago de infernal alegria, vêde que o
+castigo é excessivo para a falta!
+
+--Se é, ou não só me compéte julgal-o, replicou Othello. Silencio e
+acompanha-me ao Palacio.
+
+E, levando após si o traidor e o jubiloso alferes, Othello abandonou o
+corpo da guarda, deixando Cassio, entregue á desesperação que lhe
+causava o ignominioso castigo que acabava de soffrer e ver-se privado do
+affecto e estima de um homem a quem realmente amava como a irmão.
+
+
+
+
+V
+
+O lenço
+
+
+Montano, cujo ferimento não era tão grave como todos haviam imaginado,
+principalmente como Iago havia feito suppôr a Othello, foi o primeiro em
+interceder a favor de Cassio para que se não attentasse contra a
+liberdade do tenente deposto; e esta intercessão, unida aos costumes da
+epocha, infinitamente mais tolerantes de que os actuaes especialmente
+com os que diziam respeito ás questões sangrentas derimidas entre
+cavalleiros, foi o sufficiente para que ninguem se preoccupasse com o
+desditoso official e o deixassem viver tranquillo.
+
+Mas, como se comprehenderá, esta tranquilidade só podia referir-se ao
+que representava a segurança pessoal de Cassio; o que pouco lhe
+importava, preoccupado como estava, até á desesperação, pelo castigo que
+lhe haviam imposto: o mais doloroso que poderia ter soffrido,
+especialmente se levarmos em conta que a esse castigo ia unida, como
+dissemos no capitulo presente, a privação da amizade e da estima do
+chefe.
+
+Cassio, pois, não parecia o mesmo desde a amaldiçoada noute em que se
+desenrolaram os lamentaveis factos que narrámos; concentrando-se
+constantemente no desconsolo e na tristeza mais profunda, permanecia
+sempre só, fugindo do convivio e da vista das pessoas e, mais do que de
+ninguem, do infame Iago; pois que uma especie de presentimento o fazia
+advinhar, ainda que muito vagamente, a parte activa que o miseravel
+tomára em todos os acontecimentos.
+
+Não obstante, um dia em que segundo o costume que havia adoptado desde a
+noute fatal, se entregava aos seus solitarios passeios á beira mar, viu
+approximar-se o alferes de Othello, o qual se lhe dirigia com o sorriso
+nos labios.
+
+Em tal sitio, onde não havia nenhuma casa, era impossivel a Cassio
+occultar-se, escapulir-se, ou responder com despreso ao cumprimento que
+lhe dirigiu o alferes; tal procedimento constituiria imprudencia
+perigosa, tanto mais que carecia de base solida em que apoiar as
+vehementes suspeitas que contra elle abrigava.
+
+Por conseguinte fez das tripas coração, como se diz vulgarmente, e,
+ainda que com instintiva e invencivel repugnancia, correspondeu ao
+amigavel sorriso de Iago e apertou a mão que este lhe estendia, e que de
+boa vontade esmagaria entre os dedos.
+
+Em breve a repulsão e antipathia começaram a dissipar-se lentamente,
+para dar logar á surpresa e ao assombro, quando ouviu fallar o alferes,
+que se expressava d'este modo:
+
+--Acredita, caro Cassio, que lamento o succedido, ainda mais
+profundamente que tu; pois não ha duvida de que, em rigor, eu sou o
+unico causador de tudo o que deu motivo a tão lamentavel occorrencia,
+com a minha insistente imprudencia, obrigando-te a que bebesses.
+Conhecendo-te como te conheço e sabendo o inimigo que és do vinho, e que
+não resistes a um só copo, o meu dever era evitar a todo o transe a
+tentação de brindar, em vez de induzir-te estupidamente a tal. Foi o que
+fiz, em má hora para todos. Perdoa-me, pois, como me perdoou Montano, de
+cujo ferimento sou o verdadeiro culpado, ainda que indirectamente, e ao
+qual já dei as explicações que devia para justificar-te a seus olhos
+como mereces; perdoa-me, repito, e acredita que, se á custa do meu
+sangue pudesse evitar por completo o occorrido e fazer desapparecer as
+suas consequencias, fal-o-hia de boa vontade.
+
+Cassio deixou fallar Iago sem o interromper, e embora as palavras do
+alferes causassem n'elle á medida que o traidor as proferia, a extranha
+impressão que dissemos anteriormente, limitou-se a responder com visivel
+frialdade:
+
+--Bem! Quem se lembra já de semelhante cousa? O que está feito, está
+feito, e o melhor que podemos fazer é esquecer.
+
+--Não, por Deus, querido Cassio!
+
+«Eu, pelo menos, longe de esquecer, devo recordar constantemente, para
+que, servindo-me de exemplo esta rematada asneira, me impeça de para o
+futuro praticar outra egual. Depois, proseguiu alegremente, isso de o
+facto não ter remedio parece mais conforme com o fatalismo do nosso
+general, do que com a grandeza de criterio de um sabio florentino como é
+o tenente Cassio.
+
+--Já não sou tenente de Othello, replicou Cassio com tristeza. Estavas
+presente quando me depoz e me negou a sua amizade.
+
+--Se o não és, não tardarás em sel-o de novo, affirmou intencionalmente
+Iago.
+
+--Que queres dizer?--perguntou Cassio, cada vez mais surprehendido e
+começando a arrepender-se finalmente de ter suspeitado da amisade do
+alferes.
+
+--Quero dizer--respondeu este dando-se ares de protecção carinhosa para
+com o antigo camarada,--que conheces mal os homens e que és demasiado
+leviano para te entregar á desesperação.
+
+--Que conheço mal os homens?--exclamou Cassio corando, pois que
+adivinhava a quem a phrase intencional do amigo visava.
+
+--Sim, conhecel-os mal--insistiu Iago--e desconfiaste de mim. Vamos,
+confessa--accrescentou batendo affectuosas palmadas no hombro do amigo.
+
+--Juro-te...--replicou Cassio.
+
+--Não jures--interrompeu-o o alferes--porque mentirias, e isso é indigno
+de ti. Mas para vingar-me como devo da maneira como pensaste a meu
+respeito, vou castigar-te dizendo que, á força de atormentar o cerebro
+procurando a maneira de remediar efficazmente todo o occorrido, estou
+seguro de ter dado com um meio que, não só te devolverá o posto, mas que
+te ganhará tambem de novo a amisade e a estima de Othello.
+
+--Como! exclamou Cassio, admirado, estreitando agradecido a mão do
+alferes.
+
+--Muito simplesmente--respondeu este--por meio de Desdemona.
+
+--De Desdemona? Não te comprehendo--disse Cassio.
+
+--Pois a coisa não pode ser mais clara--replicou Iago com convicção
+absoluta.--Vejamos: não foste tu, durante muito tempo, o unico
+confidente dos amores de Othello e da bella filha de Brabancio?
+
+--Certamente--respondeu Cassio, mas ignoro como podeste saber isso, que
+é segredo para toda a gente.
+
+--Menos para minha mulher Emilia--rectificou Iago--pois Desdemona não
+tem segredos para ella. Mas, adiante; fallemos do que importa. Assim
+pois, a esposa do nosso general deve estar, e está, profundamente
+agradecida, pois deve-te primeiro que tudo, a felicidade de que
+disfructa e o amor de Othello. Além d'isto, consta-me que tem em grande
+estima o teu cavalheirismo e o teu talento, e que te aprecia tanto
+quanto póde apreciar outro homem uma mulher apaixonada do marido.
+
+--É certo--concordou ingenua e modestamente Cassio--que Desdemona me
+distinguia entre os outros officiaes do seu esposo. Mas d'esta
+distincção á sympathia que dizes dispensar-me, ha muita distancia, e
+creio que a tua grande estima por mim, te faz exagerar e não pouco.
+
+--As mulheres não sabem equivocar-se, nem exagerar n'este
+sentido--replicou perfidamente Iago--e a minha assegurou-me o que te
+acabo de dizer, por tel-o ouvido dos proprios labios de Desdemona.
+
+«Que dizes agora a isto?
+
+--Digo--respondeu Cassio, córando, pois sem saber porquê sentia a
+vaidade ferida com as palavras do bandido--que mesmo que assim fosse,
+qual a vantagem que me advirio?
+
+--Ainda o perguntas?--inquiriu Iago, simulando a mais perfeita
+admiração. Perdoa dizer-te que és o mais innocente dos mortaes, pois só
+uma candidez como a tua póde ignorar que, quem como tu, tem pela sua
+parte a mulher, conta tambem sem duvida, com o marido.
+
+--De que forma?--perguntou Cassio, sem comprehender onde queria chegar
+Iago, que não fazia mais do que seguir a linha que traçára ao infame
+plano para envenenar o coração de Othello e anniquillar-lhe a
+existencia, destruindo a felicidade que elle encontrava no amor da
+esposa.
+
+--Assombra-me a tua innocencia, ingenuo Cassio! exclamou
+Iago.--Perguntas-me de que modo has de arranjar-te para chegares até
+Othello tendo por mediadôra Desdemona?
+
+--Sim, pergunto--confirmou, porque não vejo meio de me approximar da
+esposa do general, estando-me prohibida, ainda que tacitamente, a
+entrada no palacio.
+
+--Indubitavelmente, se não tivesses quem te ajudasse--respondeu o
+miseravel--não te seria muito facil, não. Mas quem conta, como tu, com
+amigos resolvidos a tudo para te ajudar, consegue o que quer, se tem a
+coragem precisa para ganhar a partida.
+
+--Como!--exclamou Cassio reconhecidissimo--Acaso tu?...
+
+--Eu, precisamente não,--interrompeu-o o alferes; mas sim minha mulher,
+que, compadecida de ti e convencida pelas minhas supplicas, cedeu, a
+proporcionar-te uma entrevista com Desdemona, que sabe o que se passou e
+pende para o teu lado.
+
+--E accedeu a receber-me?--perguntou anciosamente o tenente.
+
+--Ás primeiras palavras que Emilia lhe disse intercedendo por
+ti--respondeu Iago,--e accrescentou que te receberia com muito gosto e
+que, com maior ainda, intercederia por ti junto do esposo, convencida
+d'antemão que alcançará o perdão da tua falta, fazendo que sejas
+reintregrado no posto de tenente.
+
+--E quando julgas que lhe poderei fallar?--interrogou Cassio, com
+justificada impaciencia.
+
+--Quando te agradar; agora mesmo, se quizeres--disse Iago.
+
+--Agora mesmo?--exclamou Cassio surprehendido.--Está então prevenida da
+minha provavel entrada no Palacio?
+
+--Desde esta manha, segundo me informou minha mulher. Apenas chegues,
+Emila conduzir-te-ha á sua presença.
+
+O leal e ingenuo Cassio estreitou carinhosamente entre os braços o
+ignobil amigo, e disse-lhe com a voz tremula de commoção:
+
+--Perdoa-me, caro Iago, pois tinhas razão quando disseste que chegára a
+duvidar de ti! Perdoa-me, repito, pois se soubesses que só e desgraçado
+me encontrava!...
+
+--Não fallemos mais em tal!--interrompeu Iago dando-se ares protectores.
+Eu teria pensado o mesmo, e talvez não tivesse tido a nobreza de o
+confessar, como acabas de fazer. Esqueçamos, pois, essas criancices,
+occupemo-nos sómente da tua completa rehabilitação junto de Othello.
+Estás decidido a fallar com Desdemona esta noite?
+
+--Quando quizeres--respondeu Cassio, que se sentia tornar á vida desde
+que, com as palavras do falso amigo, lhe havia dado entrada no coração a
+esperança.
+
+--Pois vamos, e não percamos tempo--disse Iago tomando o braço do
+camarada e encaminhando-o para o Palacio.--Consta-me que Othello não se
+encontra agora no Palacio e, por conseguinte, não póde haver occasião
+tão opportuna como esta para encontrar Desdemona só e poderes fallar da
+tua causa com o maior enthusiasmo; ainda que, como já te informei, pouco
+terás a dizer, porque a esposa do general é em teu favor e defenderá a
+questão até conseguir ganhal-a, sem duvida alguma.
+
+--Tenho um escrupulo--observou Cassio, parando, em seguida, e obrigando
+Iago a deter-se.
+
+--Qual?--perguntou este, franzindo ligeiramente as sobrancelhas, porque
+se Cassio não se prestasse a seguil-o, cahiria pela base todo o edificio
+do infame projecto que tramára para acabar de perder quantos lhe eram
+odiosos.
+
+--Se Othello--respondeu Cassio,--sabe que visitei o palacio e fallei com
+a esposa a occultas, isto longe de predispol-o em meu favor,
+irrital-o-ha mais ainda contra mim do que já está. Perderemos então
+terreno, em logar de o ganhar.
+
+--Em primeiro logar--ponderou astutamente Iago,--Desdemona se
+encarregará de lhe explicar satisfactoriamente tudo, com o que ficará
+bastante justificada a tua conducta; depois, este passo acabará de o
+convencer de que estás decidido a tudo para recuperar a sua estima e
+affecto.
+
+«Além de que--terminou--o mais provavel, poderemos dizer o quasi certo,
+é que não chegue a saber da tua visita ao castello, pois entrarás por
+uma porta occulta e minha mulher estará esperando, para levar-te á
+presença de Dedemona, sem que possa surprehender-te nenhum corioso
+indiscreto. Já vês, que tudo está bem preparado e que não tens nada a
+recear.
+
+Para fallarmos a verdade, tal mysterio, tal jogo de palavras e de
+precauções para afinal penetrar clandestinamente e como um ladrão na
+moradia do seu antigo general, nada menos que para fallar a Desdemona
+sem consentimento do esposo, não acabaram de convencer o leal e honrado
+official de Othello; mas como, apesar de tudo, não tinha por onde
+escolher e queria a todo o custo recuperar o cargo perdido e a affeição
+do chefe, deixou-se levar docilmente pelo infame amigo até ao palacio do
+governador, no qual entrou, como havia dito Iago, por uma porta occulta,
+junto da qual o deixou o alferes, affirmando-lhe que o viria buscar mais
+tarde para que o puzesse ao corrente do resultado da entrevista, ainda
+que este não podia ser senão completamente satisfatorio.
+
+Conforme disséra Iago, Emilia esperava Cassio por detraz da tal porta, e
+apenas o tenente entrou, conduziu-o, atravez de corredores e galerias
+estreitas, até aos aposentos de Desdemona, sem que ninguem suspeitasse
+da sua mysteriosa visita ao Palacio.
+
+A pura e formosissima esposa de Othello, que realmente apreciava Cassio,
+cujas excellentes qualidades conhecia e estimava, bem como a cega
+dedicação do official pelo mouro, recebeu-o affectuosamente, ouviu-o com
+a attenção e benevolencia de uma irmã e prometteu alcançar o perdão de
+Othello, ao qual fallaria em seu favor n'aquella propria noute,
+explicando-lhe a verdadeira causa do succedido, e apresentando o
+cavalheiroso e leal Cassio tal como este realmente era, e não como o
+havia feito apparecer aos olhos de todos e, principalmente aos do
+general, um conjuncto de circumstancias desgraçadas.
+
+Cassio, derramando lagrimas de gratidão, ajoelhou ao despedir-se, para
+beijar a mão da sua protectora, vendo, louco de alegria, que voltava a
+brilhar para elle o sol da esperança.
+
+Desgraçadamente, no momento em que pousava os labios na nivea mão de
+Desdemona appareceu Othello ao fundo do largo corredor que dava accesso
+ao salão em que se encontravam a esposa e o tenente.
+
+O general, que vinha acompanhado de Iago, estremeceu violentamente ao
+ver Cassio de joelhos ante a esposa e beijando-lhe a mão.
+
+A colera que experimentou só póde comparar-se ao indescriptivel assombro
+que lhe tomou os sentidos durante alguns momentos, deixando-o cravado no
+mesmo sitio e sem poder pronunciar uma só palavra. Quando tornou a si e
+seguiu avançando até onde se encontrava sua esposa, Cassio já tinha
+desaparecido, pois que a inesperada presença do general desconcertou-o
+de tal modo, que, sem prever as consequencias da sua fuga, nem atender a
+outra cousa do que ao receio de se encontrar frente a frente com Othello
+depois do imprudente passo que acabava de dar, abandonou o salão
+precipitadamente, sem dar attenção ás observações de Desdemona, que o
+aconselhava a ficar.
+
+--Desde quando é permittido a esse bebedo e mal educado cavalheiro
+entrar em minha casa sem eu saber e atrever-se nada menos do que a
+beijar de joelhos a mão de minha esposa? perguntou Othello á jóven, em
+tom irado.
+
+--Cassio não é nenhum bebedo e tão pouco mau homem respondeu docemente
+Desdemona. Pelo contrario, é o amigo mais fiel e mais leal que tens, e
+ha muito tempo que o provou, ajuntou ella olhando para Othello
+intencionadamente e alludindo aos valiosos serviços que o official havia
+prestado a ambos durante o periodo dos seus amores em Veneza e ás
+occultas do senador Brabancio, seu pae.
+
+--Sei perfeitamente o que devo a respeito da lealdade d'esse e de todos
+os meus amigos, replicou brutalmente o mouro, sem necessidade de que
+ninguem mo recorde.
+
+«De hoje em diante prohibo-te terminantemente que recebas nos teus
+aposentos qualquer homem sem o meu consentimento e, muito menos,
+individuos que, com a sua desprezivel e escandalosa conducta, se
+tornaram culpados do meu justo despreso.
+
+--De boa vontade te obedecerei n'isto como em tudo, e não receberei
+jamais nenhum homem sem que tu me auctorises a tanto, respondeu com
+doçura angelical a bella esposa do ciumento e apaixonado mouro. Mas, por
+esta vez, te rogo, meu querido amigo, que perdoes a Cassio e lhe
+devolvas a estima e o affecto que d'antes lhe dedicavas e que tanto
+merece.
+
+--Não quero, entendes? não quero tornar a ouvir pronunciar em minha
+casa, e muito menos aos teus labios, o nome de tal homem. Ouves? Pois
+bem, aconselho-te que não o esqueças, pois não gosto de repetir as
+ordens que dou, rugiu Othello.
+
+--Não esquecerei, esposo meu, disse Desdemona, sem perder nem um
+instante a inalteravel doçura. Mas asseguro-te que, tu, tão prudente e
+generoso sempre, és injusto n'esta occasião com o pobre Cassio.
+
+--Outra vez? gritou o mouro fóra de si. E sentindo que a cólera que o
+dominava o arrastava a uma brutalidade, da qual teria de arrepender-se,
+abandonou precipitadamente o quarto, dizendo com voz agitada para o
+alferes: Segue-me, Iago!
+
+O infame não fez repetir a ordem, e sahiu na esteira do general, não sem
+fazer um profundo e servil cumprimento a Desdemona.
+
+Quando se encontrou no corredor só com Othello, começou a murmurar em
+voz baixa:
+
+--Que imprudentes! Quem o tivera advinhado! Chama-se a isto jogar com a
+propria vida!
+
+Othello, que apezar da ira que o dementava, ouvira perfeitamente as
+insidiosas palavras do alferes, que com tal proposito as havia dito,
+embora apparentando fallar para si, agarrou violentamente Iago pelo
+pescoço, de tal modo que esteve a ponto de o estrangular e
+perguntou-lhe:
+
+--Que dizes, mizeravel? quem são os imprudentes e os que jogam com a
+vida?
+
+«Atrever-te-hias a suspeitar, infame, de minha esposa, da minha
+Desdemona?!
+
+«Falla, cão, ou morrerás ás minhas mãos, aqui mesmo!
+
+Iago não respondeu, pela simples rasão de que não podia fallar, apertado
+como estava entre os ferreos dedos do furioso africano.
+
+Mas, levando a mão ao bolso, tirou d'elle um lenço de seda, bordado nos
+quatro cantos, e estendeu-o a Othello, emquanto fitava eloquentemente o
+marido de Desdemona.
+
+Este retrocedeu alguns passos, como horrorisado, e fixando no lenço um
+olhar de louco, murmurou com phrases entrecortadas, a voz cheia de
+angustia:
+
+--Como! O meu lenço!
+
+«O lenço que era uma reliquia de minha mãe e de que fiz presente a
+Desdemona como a joia mais preciosa que possuia! A melhor prenda dos
+nossos amores em mãos extranhas!...
+
+«D'onde o roubaste, traidor?--gritou a Iago, prompto a lançar-se de novo
+a elle.
+
+--Cassio! Cassio é que o tinha e tirei-lh'o! apressou-se a responder o
+alferes, receando realmente pela sua vida, ao vêr a espantosa attitude
+de Othello.
+
+--Tinha-o Cassio?--rugiu o mouro.
+
+«Ira de Deus! Mas isso é impossivel! Impossivel!
+
+«Mentes, traidor, infame! Diz-me que mentes ou te arranco as entranhas!
+
+--Não o posso dizer, general, porque sou demasiado fiel para vos
+enganar.
+
+«Esse lenço, que nunca vos mostraria, a não ser n'um caso especial como
+o de hoje, para salvar a minha vida, tirei-o a Cassio, repito, e a elle
+o havia entregado Desdemona alguns dias depois do vosso casamento. Eu
+proprio, que estava occulto, a alguma distancia, pois suspeitava
+d'ambos, lh'o vi dar!
+
+«Juro-vos que daria a vida para não despedaçar o vosso coração como o
+faço n'este momento; mas ordenais-me que falle e não tenho outro remedio
+senão obedecer.
+
+Othello, cuja bronzeada pelle se havia posto repentinamente côr de
+cinza, quiz pronunciar algumas palavras, mas não poude; arrancou a gola
+do gibão que o apertava, soltou uma especie de suspiro rouco, como o
+estertor da agonia, e o seu athletico corpo de gigante cahiu sobre o
+tapete, debil, apesar das herculeas forças, para resistir ao furioso
+furacão das selvagens paixões que a intriga do infame Iago lhe
+desencadeára na alma.
+
+O miseravel, ao ver cahir o desditoso esposo de Desdemona, esboçou um
+sorriso horrivel e murmurou entre dentes:
+
+Isto vae ás mil maravilhas, e já falta pouco para o fim.
+
+«Que bruto, hein? Se não venho preparado com o lenço, matava-me com
+certeza! Verdade seja que isto adeantou os successos, que nada perdi com
+passo!
+
+«Agora vamos chamar soccorro, pois não quero que morra antes de que
+tenha despachado os outros e eu arredondado a minha fortuna, para o que
+tenho á mão esse imbecil de Rodrigo e o cargo de tenente que deixou vago
+esse outro imbecil de Cassio.
+
+E, ditas estas palavras com sangue frio e cynismo espantosos, junto do
+inanimado corpo de Othello, o traidor revestiu uma apparencia de dôr e
+de lastima que teria invejado o mais habil farçante do tempo, e foi
+correndo em busca de soccorros para a sua infeliz e crédula victima.
+
+
+
+
+CAPITULO VI
+
+Os embaixadores
+
+
+A terrivel crise soffrida por Othello, em consequencia das infames
+calumnias urdidas por Iago e que apresentavam a pura e innocente
+Desdemona como vil adultera, determinou no arrebatado mouro uma
+congestão cerebral, que durante alguns dias o teve prostrado no leito,
+entre a vida e a morte.
+
+Restabelecido, por fim, graças á rigorosa organisação e, mais do que
+tudo, aos assiduos e ternos cuidados que lhe prodigalisou Desdemona, que
+o não abandonou um só instante, nem mesmo para entregar-se ao
+imprescindivel descanso, poude deixar o leito e, n'esse mesmo dia em que
+se levantou, mandou chamar aos seus aposentos Emilia, mulher de Iago, e
+por meio de supplicas e de ameaças tratou de arrancar a confissão da
+culpabilidade de Desdemona julgando acertadamente que, se esta tinha, em
+verdade, algum segredo punivel, o conheceria, sem duvida, a esposa do
+alféres, que mais do que uma simples creada da filha de Brabancio, havia
+sido sempre a sua mais intima companheira e fiel amiga, dispondo, como
+tal, da absoluta confiança da joven.
+
+Mas, por mais que fizesse para obrigar a Emilia a fallar contra a
+supposta adultera, como a confidente d'esta nada tinha que dizer contra
+ella, nada disse, e, pelo contrario, mostrou-se profundamente
+surprehendida a começo, chegando até a indignar-se, quando se convenceu
+de que Othello duvidava, mais ainda, estava convencido da traição de
+Desdemona.
+
+Em vão se esforçou o mouro por fazer com que a nobre mulher proferisse
+uma só palavra, que désse vulto e alimento e fortificasse os crueis
+ciumes que lhe mordiam as entranhas; em vão lhe fallou de Cassio e das
+suppostas intimidades d'este com a esposa. Emilia negou redondamente,
+pela salvação da sua alma, que existissem taes intimidades, chegando no
+grande affecto que devotava a Desdemona a increpar Othello por offender
+a sua ama e amiga com tão miseraveis suspeitas.
+
+Isto fez chegar ao cumulo a irritação e cólera do apaixonado e ciumento
+africano, o qual, julgando que a serva encobria Desdemona e que, por
+tanto, fazia causa commum contra elle para atraiçoar o seu amor e lançar
+inextinguivel mancha no seu nome, acabou por insultar furiosamente
+Emilia, expulsando-a do aposento com terriveis ameaças e promettendo-lhe
+que não tardariam em se arrepender do que elle chamava infame conducta
+de alcoviteira e encobridora.
+
+A fiel e leal criada foi-se chorando com verdadeiro desgosto, e, sem
+perder um minuto, dirigiu-se ao encontro da ama, á qual referiu o que
+acabava de succeder-lhe e o que lhe dissera Othello.
+
+Estavam assim conversando, ouvindo Desdemona a Emilia com o doloroso
+espanto que pode calcular-se facilmente, quando, de repente, as duas
+mulheres ficaram estupefactas, ao vêr entrar o mouro no aposento.
+
+--Como supponho, disse com rapidez Othello, dirigindo-se a Desdemona,
+que já haveis fallado mais do que é necessario, e sobre tudo, mais ainda
+do que para minha honra e para minha tranquilidade convem, creio que
+essa mulher poderá retirar-se, pois tenho necessidade de fallar a sós
+comtigo.
+
+--Retira-te Emilia, disse a joven com doçura para a sua creada de
+quarto. Se precisar de ti chamarei.
+
+A dama de companhia sahiu immediatamente dirigindo um cumprimento
+carinhoso a Desdemona e quasi sem olhar para Othello, ao qual semelhante
+attitude irritou mais do que estava.
+
+--Já vejo, começou dizendo com mal reprimida colera, que não te
+preoccupas a ensinar aos criados o respeito que devem a teu esposo.
+
+--Perdoa a Emilia, respondeu carinhosamente Desdemona; respeita-te e
+estima-te, como te respeitam e estimam aqui todos, começando por mim e
+acabando no ultimo dos teus servidores. Mas hoje está nervosa e muito
+contrariada, como eu propria estou, devido á entrevista que teve comtigo
+e que me contou, pormenorisadamente.
+
+--Felicito-te por teres servos tão leaes, respondeu sarcasticamente
+Othello. Já não posso dizer outro tanto.
+
+--Queixas-te injustamente, observou a joven, porque, repito: ninguem
+aqui faz distincção alguma, senão em teu favor, pois seria eu a primeira
+a não a consentir.
+
+--Mil graças! respondeu Othello com o mesmo sarcasmo com que
+anteriormente se havia expressado. Já vejo que não tenho razão de me
+queixar, e que sou o mais injusto dos homens e o mais contradictorio dos
+maridos.
+
+--Não quiz dar-te a entender semelhante cousa; mas se assim o fiz mesmo
+contra minha vontade, perdoa-me, disse humildemente Desdemona.
+
+--Estás perdoada, respondeu o mouro seccamente; e logo accrescentou
+mudando o tom da voz que tentou tornar o mais indifferente possivel: Ha
+poucos dias, ao cahir sem sentidos no pavimento, molestei um pouco a mão
+direita; a começo não me doia nada e por isso nada tambem disse até
+hoje; agora doe-me bastante e agradecer-te-hia que atasses em redor
+d'ella qualquer coisa, um lenço... aquelle de seda de que te fiz
+presente em Veneza, dizendo-te que o guardasses como reliquia, porque
+era de minha mãe.
+
+Desdemona poz-se pallida como morta ao ouvir o esposo expressar-se de
+tal maneira. O lenço em questão havia-se extraviado dias antes, e
+receando os arrebatamentos do caracter de Othello, occultára-lhe tamanha
+perda, pois não ignorava que o marido sentia por essa recordação de sua
+mãe, unica que possuia, verdadeira veneração. Calcule-se pois o terror
+que experimentaria em tal momento, sabedora por Emilia, e pelo que
+pessoalmente observava no esposo, da má predisposição que elle tinha
+contra ella, devida a furiosos e injustificados ciumes. Dizer-lhe
+n'aquelle instante que perdera o lenço, era dispor-se a desencadear
+contra ella todas as terriveis tempestades d'aquelle temperamento
+arrebatado até á ferocidade; por outro lado mentir, inventar qualquer
+fábula que justificasse a falta do lenço, seria tão inutil como indigno
+da nobreza e da lealdade do seu caracter. Por conseguinte só poude
+responder, com voz balbuciante, e sentindo que um suor gelado lhe
+banhava todo o corpo:
+
+--O lenço de seda!... O lenço de tua mãe!... Olha... tenho-o tão bem
+guardado, que perderia demasiado tempo em dar com elle!... Outro
+qualquer te servira de egual modo!... Não te parece?...
+
+E a infeliz tremia, olhando o esposo com olhos aterrorizados, e sentindo
+que ia desmaiar se a espantosa situação se prolongasse demasiado tempo.
+
+--Quero o lenço de seda! Quero-o agora mesmo! respondeu Othello com
+implacavel aspereza.
+
+--Mas, atreveu-se todavia a accrescentar a infeliz Desdemona, não te
+disse?...
+
+--O lenço! rugia o terrivel mouro arrebatado já pela selvagem explosão
+dos ciumes. A desventurada tremeu até ao intimo d'alma; começou o pranto
+a banhar-lhe as nacaradas faces e, tapando o bellissimo rosto com as
+mãos, cahiu de joelhos aos pés do cruel marido, balbuciando entre
+convulsivos soluços:
+
+--Perdão! Perdão! meu querido Othello!... Perdi-o!... não sei que foi
+feito d'elle!...
+
+--Oh! infame!... confessas, finalmente! accrescentou rugindo
+furiosamente o terrivel ciumento, acaba de vez a tua confissão,
+miseravel adultera, vil prostituta!... Dize que o não perdeste; que,
+pelo contrario o déste ao teu amante, ao traidor que enganava a minha
+amizade, roubando-me a honra; ao cobarde por quem tinhas, ainda ha
+poucos dias, a desvergonha e o cynismo de interceder, chegando o teu
+impudor a defender-lhe as crapulosas e indignas bebedeiras!...
+
+«Confessa, infame, confessa ou te afogo entre as minhas mãos de ferro,
+feitas para estrangular féras como tu, que tens coração de tigre! ouves,
+miseravel?! Confessa ou te mato!...
+
+E o formidavel africano, convertido já n'um d'esses irracionaes a que
+vinha de referir-se, apertou entre as herculeas mãos o gracil e delicado
+corpo da esposa, a qual, apovorada, abateu a delicada e branquissima
+garganta sobre o peito, cerrou os meigos e bellos olhos e, soltando
+debil suspiro, ficou inerte nos braços do temivel esposo.
+
+Ao ligeiro grito desprendido dos labios da joven ao perder o
+conhecimento, succedeu acto continuo a repentina entrada de Emilia no
+aposento. Conhecedora do vehemente caracter de Othello, previra, ainda
+que apenas em parte, as consequencias da conversação do mouro com a
+innocente esposa, e não se affastára muito do quarto.
+
+Sem embargo, a mulher do traidor alferes nunca previra até onde chegaria
+a selvagem paixão do africano, e ao ver nas terriveis mãos de Othello o
+corpo inanimado da querida ama, julgou que elle a tinha matado e,
+começou a gritar desesperadamente, rompendo em violentos soluços e
+increpando o ciumento marido com os mais horriveis improperios:
+
+Othello, cujos olhos se injectaram de sangue, e cujo bronzeado rosto
+instantaneamente se pôz quasi branco, sentiu desejos irresistiveis de
+arrojar-se sobre Emilia e estrangulal-a; mas, dominando os impulsos
+ferinos com supremo esforço da vontade, conseguiu vencer-se e,
+abandonando o desmaiado e precioso corpo que ainda conservava entre as
+mãos, lançou á criada um olhar de ameaça feroz e sahiu precipitadamente
+do aposento, como se temesse não ser senhor de si, caso n'elle
+permanecesse mais algum tempo.
+
+Emilia ficou, pois, só com Desdemona, a qual levantou do chão com o
+delicado esmero de mãe, e, depois de a deitar no leito, prodigalisou-lhe
+todos os cuidados que considerou necessarios para a fazer recuperar os
+sentidos.
+
+Quando a infeliz voltou a si do deliquio, rompeu em amargo e copioso
+pranto, o que lhe desafogou um tanto o angustiado coração. Depois, em
+vez de se mostrar indignada contra o implacavel esposo, começou a
+desculpal-o aos olhos de Emilia, que continuava dirigindo-lhe os
+insultos mais violentos.
+
+--Meu pobre Othello--terminou dizendo a pura e nobre Desdemona.
+
+«Soffre mais ainda do que eu, porque me ama apaixonadamente, e julga-me
+culpada, devido a um erro fatal, que é preciso aclarar a todo o custo.
+
+Ditas estas palavras, que lhe punham em relevo toda a angelical
+formosura da alma, fechou os olhos e, o seu delicado organismo, rendido
+por fim, por tantas e tão violentas emoções, cahiu n'um profundo somno,
+que era o melhor lenitivo que podia achar n'esse instante a desventurada
+para acalmar a dôr que lhe atormentava a alma...
+
+Entretanto Othello dirigia-se para os seus aposentos particulares, com o
+proposito de encerrar-se n'elle e poder desafogar melhor, no isolamento
+a raiva e os ciumes que lhe mordiam cruelmente o coração.
+
+Mas, apenas penetrou no salão que lhe servia de gabinete, encontrou-se,
+cheio de admiração, na presença completamente inesperada em tão
+dolorosos momentos de quatro cavalleiros venezianos, que acabavam de
+chegar á ilha de Chypre e o estavam esperando.
+
+De novo conseguiu o mouro dominar as violentas agitações e as crueis
+torturas da alma, e, depois de trocados os primeiros cumprimentos,
+perguntou ao mais velho dos quarto, e que parecia ser o chefe, o motivo
+de tão inesperada como grata visita.
+
+Este, que era o senador Graciano, irmão de Brabancio e tio por
+conseguinte de Desdemona, começou por abraçar affectuosamente Othello e
+depois, em voz grave e repousada, expressou-se d'esta forma:
+
+--O Doge, em nome do illustre e sabio Conselho dos Dez, nos manda aqui,
+valente general, como encarregados de exprimir o agradecimento de sua
+agradecida Magestade e de toda a Republica pelos valiosos serviços que,
+n'este momento, como sempre, prestaste a Veneza, no exercicio do teu
+governo de Chypre.
+
+«Em seguida proseguiu mais gravemente ainda Graciano, ordena-nos que te
+façamos saber que o Conselho e sua Senhoria necessitam de ti com grande
+urgencia, para encarregar-te de nova expedição de vital interesse para o
+Estado.
+
+«Não devemos demorar muito tempo a nossa partida, e por isso, apenas
+tenhamos descançado das fadigas da viagem, que foi penosa e accidentada
+em extremo, sahiremos da ilha para Veneza, onde terás a gentileza de
+acompanhar-nos. Isto tardará tres ou quatro dias, o maximo, tempo
+sufficiente para que possas tomar as disposições que consideres
+opportunas para o melhor governo de Chypre, do qual, por ordem expressa
+do Conselho, encarregarás o tenente Cassio, que de ti tem sempre
+merecido os melhores elogios quando se te offerece occasião de
+fazer-lh'os. Eis quanto tinhamos a dizer-te em nome do Doge e do
+illustre Conselho dos Dez, valente Othello. Está pois cumprido o objecto
+da nossa embaixada, e agora, rogamos-te encarecidamente ordenes o que
+necessario for para que possamos desfructar a tua generosa hospitalidade
+e entregarmo-nos ao repouso de que tanto carecemos.
+
+Um raio que tivesse cahido aos pés de Othello não lhe produziria maior
+espanto do que o que lhe causou o breve discurso proferido pelo
+emissario da Magestade. A principio ficou como que aturdido; mas não
+tardou em readquirir o sangue frio, e respondendo como poude ao senador
+Graciano, prometteu obedecer, como sempre, ás ordens do Doge e do
+illustre Conselho.
+
+Seguidamente deu as instrucções necessarias para que installassem os
+embaixadores nos seus respectivos aposentos.
+
+Depois, quando conseguiu ficar só, sorriso extranho, cheio de ironia e
+de odio, entreabriu-lhe os grossos labios; mandou chamar immediatamente
+Yago, e apenas este chegou, disse-lhe sem mais preambulos:
+
+--Ouve-me com todas as tuas faculdades, e sem te admirares de cousa
+alguma, nem perder o tempo em exclamações inuteis. Fixa bem na memoria o
+que te vou dizer e obedece á risca.
+
+--Já sabeis, illustre general--respondeu servilmente Yago--que sou para
+vós um cão fiel, e que daria de boa vontade a vida se fosse necessario,
+para servir-vos.
+
+--Sei, e como chegou agora o momento de pôr á prova a tua amisade por
+mim, por isso te chamei.
+
+O alferes tremeu, pois ignorava onde queria chegar o terrivel Othello;
+mas fazendo das fraquezas forças respondeu com voz firme:
+
+--Mandai e obedecerei.
+
+--Acabo de receber uma embaixada de Veneza, que me ordena, em nome da
+Senhoria, que saia de Chipre, sem demora, para a cidade de S. Marcos.
+
+--Como!--exclamou Yago profundamente surprehendido, apesar da ordem que
+havia recebido de Othello, de que o não interrompesse.
+
+--Ainda não é tudo--respondeu o mouro com sarcastica amargura, sem fazer
+caso da exclamação do alferes--O Doge ordena-me tambem que deixe o
+tenente Cassio encarregado do governo de Chypre.
+
+O infame Yago pôz-se livido de inveja, e tão violenta foi a impressão
+que n'elle causaram as palavras de Othello que se atreveu a
+perguntar-lhe:
+
+--E que tenciona fazer, general? Obedecer á Senhoria?
+
+--Não poderei obedecer, ainda que quizesse--respondeu Othello sorrindo
+ferozmente,--porque os embaixadores partirão dentro em tres ou quatro
+dias, e esta mesma noite morrerá Cassio de uma punhalada que tu mesmo te
+encarregarás de dar-lhe.
+
+Brilharam de infernal alegria os olhos do alferes, que se limitou a
+responder:
+
+--Sou vosso em corpo e alma. Cassio morrerá esta noite....
+
+Mas accrescentou vacillando, porem resolvido a todo o custo a saber o
+que ganharia de semelhante missão:
+
+--Que pensaes fazer, no que vos diz respeito?
+
+--A seu tempo o saberás--respondeu seccamente o mouro.--Agora, vae-te,
+pois já disse o que tinha a dizer e esta mesma noite, seja a que horas
+fôr, te espero para que me dês conta da morte do infame ladrão da minha
+felicidade e da minha honra.
+
+Pronunciadas estas ultimas palavras, Othello despediu Yago com um gesto,
+e acto continuo abandonou o quarto.
+
+Apenas se viu só, Yago sorriu com expressão de odio e de ambição
+satisfeita, e murmurou entre dentes:
+
+--Amanhã, a estas horas, serei tenente e talvez governador da ilha, pois
+saberei obrigar Othello a que me pague bem a morte de Cassio; quanto a
+este não serei eu que o hei de matar, mas sim esse imbecil de Rodrigo,
+ao qual offerecerei a posse immediata de Desdemona se a livrar do
+official que sempre a está importunando com as suas instantes e
+vergonhosas declarações; assegurar-lhe-hei que isto me disse ella
+propria, e que se ainda se não entregou, foi porque teme que Cassio
+venha a sabel-o e, para vingar-se, conte tudo ao marido. Que o diabo me
+leve se o estupido Rodrigo não acredita na fabula e não mata o rival!
+Para tanto facilitar-lhe-hei occasião oportuna, marcando a Cassio uma
+entrevista na praia ás 11 horas da noite de hoje. Rodrigo matal-o-ha com
+uma punhalada á traição e eu, que ficarei presenciando a scena,
+denuncial-o-hei á justiça...--Não, interrompeu o miseravel.--Isto é
+perigoso, porque o imbecil poderia fallar, e não me convém, pois toda a
+gente saberia então que o illudi para apoderar-me de todas as suas joias
+e dinheiro. O melhor, é depois de matar Cassio, matal-o a elle tambem, o
+que me será facil, porque é muito menos perigoso do que o outro. Assim
+está bem--terminou dizendo com expressão satisfeita.--Está resolvido: de
+tal guisa livro-me d'esse parvo que já começa a incommodar-me, e já não
+tenho nada a temer de Cassio, podendo em troca cobrar o preço da sua
+morte, sem o menor risco para a minha pessoa...
+
+E Yago dispoz-se a ir procurar Rodrigo sem perda de tempo, para começar
+a pôr em execução o seu infame plano; mas, antes de abandonar o palacio
+do governador, enviou a Cassio um soldado encarregado de lhe dizer que o
+esperasse ás onze horas da noite na praia, pois tinha que communicar-lhe
+uma noticia de grande interesse para elle.
+
+--Aposto a cabeça em como não faltará--disse o miseravel--regosijando-se
+antecipadamente com o resultado que ia obter da nova e dupla infamia
+acabada de planear.
+
+
+
+
+CAPITULO VII
+
+Crime e Castigo
+
+
+Avança a noite e os relogios de Chypre dão pausada e gravemente as dez
+badaladas.
+
+Na alcova de Desdemona, a joven e bella esposa do governador da ilha
+dispunha-se a deitar-se ajudada carinhosamente pela mulher de Yago, tão
+fiel e leal servidora, como falso e traidor era para o general africano
+o infame marido.
+
+--Emilia, disse com voz de infinita doçura a filha de Brabancio;
+enfeita-me muito e põe-me bonita para dormir. Tenho um presentimento
+estranho, tão extranho como doloroso, que não me abandona desde esta
+tarde, e que me annuncia que este vae ser o meu ultimo somno.
+
+--Que loucura! exclamou a criada, tratando de se mostrar alegre aos
+olhos da ama. Desprezai, senhora, esses tristes e lugubres
+presentimentos e pensai sómente, pelo contrario, em que vos esperam dias
+cheios de aventura, pois sois ainda muito nova e a vida começa agora
+para vós.
+
+--Sim, respondeu melancolicamente Desdemona, mas has de concordar que
+começa de maneira bem dolorosa! Que será de mim sem o amor de meu
+esposo?
+
+--Vosso esposo, disse Emilia com gesto de convicção;--não tardará em
+arrancar pelas proprias mãos a negra venda que hoje lhe tapa os olhos, e
+que o impede de ver todo o thesouro de virtudes e de felicidades que em
+vós possue! Então voltará ainda mais enamorado do que nunca, e depois
+vereis, minha querida ama, como esses maus pensamentos que hoje vos
+atormentam, não tardarão a converter-se em sonhos côr de rosa.
+
+--Queira Deus que não te enganes! respondeu Desdemona, soltando um
+profundo suspiro, que pareceu aliviar-lhe um tanto o coração opprimido
+pela angustia.
+
+--Não me engano, tenho a certeza,--insistiu Emilia alegremente.--Vereis
+como esta mesma noite o vosso esposo virá ver-vos e implorar o vosso
+perdão, e ao contemplar-vos tão formosa como os anjos de céu, cahirá de
+joelhos ante vós arrependido da sua conducta. Como estaes linda, minha
+senhora!--continuou olhando para a joven com sincera admiração, depois
+de dar-lhe uns ultimos toques no toucado.--Agora, dormi e sonhai com
+dias melhores, porque os bons sonhos trazem comsigo a ventura, segundo
+affirmam.
+
+Dizendo estas palavras, Emilia ajudou a joven a deitar-se; apanhou em
+seguida as roupas que estavam cahidas, pelo aposento, e olhando
+cuidadosamente em torno de si, para convencer-se que tudo ficava em
+ordem, deu as boas noites e abandonou em silencio o quarto, que apenas
+ficou illuminado pela vaga e febril luz de uma lampada de azeite.
+
+Haviam transcorrido dez minutos, e já os preciosos olhos da joven
+começavam a cerrar-se, vencidos pelo somno, quando a mesma porta por
+onde sahira Emilia se entreabriu suave e lentamente, e na hombreira
+appareceu a alta e soberba figura de Othello.
+
+O mouro avançou com lentidão até ao leito onde repousava a esposa que,
+ao advinhar, melhor do que via, a sua presença, deu um debil grito de
+alegria e estendeu os nús e marmoreos braços ao marido, exclamando
+amorosamente:
+
+--Tu aqui! meu querido Othello! Vens dar-me o teu perdão pela desgraçada
+perda do lenço?
+
+--Rezaste esta noite, Desdemona? perguntou o general com gravidade meiga
+e triste, que tinha algo de tragica.
+
+--Sim, esposo meu, respondeu a innocente Desdemona; esta noite, como
+todas, fiz as minhas orações do costume. Mas, porque me fazes tal
+pergunta?--interrogou a infeliz começando a sentir-se presa de vago
+terror, ao ver a sombria e implacavel expressão retratada no semblante
+do marido.
+
+--Porque vaes morrer depois de findarem os cinco minutos que te concedo
+para encommendares a Deus a tua alma!--respondeu Othello inexoravel.
+
+--Deus! Que dizes? exclamou a joven, sentando-se no leito, como
+surprehendida pelo espanto e julgando ter ouvido mal.
+
+--Digo que vaes morrer e que aproveites o tempo que te dou para
+encommendar a tua alma a Deus, repetiu o mouro com frialdade que fazia
+tanto damno como o de uma folha de aço. E accrescentou logo: Se o
+proprio Deus houvesse baixado á terra para me annunciar que morrerias ás
+minhas mãos, teria duvidado de Deus; já vês se tinha ou não fé no teu
+carinho! Mas tu atraiçoaste essa fé, e por isso mereces a morte.
+Sim--continuou implacavelmente o terrivel mouro, exaltando-se á medida
+que fallava, e sem fazer caso do tremor e da mortal lividez que se viam
+na desventurada e innocente Desdemona;--sim, mereces e vaes justamente
+morrer. Mas, por que ainda te amo, apezar de tudo, e vim sem armas,
+porque não quero derramar o teu sangue, que sempre será precioso para
+mim, morrerás estrangulada ás minhas mãos, entre estas mãos que com tão
+ardente amôr te acariciaram nos dias felizes para mim. Vês como te amo,
+Desdemona? Sim, amo-te, e ainda te perdoaria, se tanto fosse possivel!
+Mas não é! Não, não é, porque atraiçoaste o meu amôr com um amigo
+desleal e infame, e porque, não contente com tal crime, para o qual não
+existe misericordia possivel, urdiste, de cumplicidade certamente com o
+miseravel, uma indigna traição no intuito de que me chamassem a Veneza e
+vos deixasse aqui a ambos em completa liberdade para gosarem a infamia
+praticada.
+
+«Ah! ah! ah! gargalhou o formidavel africano, rindo como um louco.
+
+«Já vês que, apezar da nobre ingenuidade do meu caracter, que me
+entregou de corpo e alma nas tuas mãos, não é tão facil enganar-me, e
+que immediatamente advinhei tudo. Sim, proseguiu, recobrando a terrivel
+expressão de implacavel dureza, advinhei, mas o vosso plano não dará o
+exito appetecido. Ouves?--perguntou, interrompendo-se para escutar as
+badaladas dos relogios que marcavam a hora. São onze horas e n'este
+momento cae o teu amante sob o punhal de um fiel servidor meu! E como
+passaram os cinco minutos que te concedi para que encommendasses tua
+alma, chegou tambem para ti a hora da morte!
+
+A infeliz Desdemona quiz fallar, pedir, supplicar misericordia ao
+terrivel esposo, fazer protestos da sua innocencia, salvar a vida,
+emfim, porque a morte horrorizava-a e a tal ponto que a fazia tremer e
+bater os dentes como se tivesse febre; mas tudo foi inutil, porque só
+teve tempo de lançar um grito desesperado, estridente, horrivel e que
+havia de se ouvir em todos os aposentos do immenso palacio, alterando
+com a infinita angustia das suas dolorosas vibrações o profundo silencio
+da noite.
+
+Os férreos dedos do mouro apertavam ferozmente a delicada e branquissima
+garganta da innocente vitima, quebrou-se a columna vertebral com um
+estalido horrivel e o precioso corpo, abandonado instantaneamente a si
+proprio, sob o impulso do invencivel horror que ao ouvir o espantoso
+estalido acommetteu immediatamente o verdugo, cahiu pesadamente sobre o
+leito flexivel e desarticulado, como pesada massa.
+
+Aterrado da propria obra, com os cabellos erriçados e os olhos
+horrivelmente dilatados pelo espanto, Othello retrocedeu ante o cadaver
+da infeliz esposa, tratando, talvez, de fugir para apagar da vista o
+tremendo espectaculo. Mas, n'esse instante abriu-se com violencia a
+porta do aposento e appareceu Emilia que, desolada e quasi nua, correu
+para o leito de Desdemona, gritando;
+
+--Senhora! Que vos aconteceu? Respondei, por Deus, respondei!
+
+--Para traz, miseravel encobridora! rugiu Othello, recobrando toda a sua
+selvagem crueldade, á vista da mulher que julgava cumplice no supposto
+adulterio da victima. E continuou, agarrando por um braço Emilia: Sim,
+morreu, e morreu ás pressões de minhas mãos vingadoras, como tu agora
+vaes morrer, infame, para que não fique no mundo nenhuma testemunha, da
+minha deshonra!
+
+E o vingativo africano dispunha-se a sacrificar tambem ao terrivel odio
+aquella nova victima que o destino lhe deparava. Mas, por fortuna para a
+fiel criada de Desdemona, n'aquelle momento e attrahidos, primeiro por o
+grito que lançou ao morrer a innocente esposa de Othello, e depois pelos
+que havia soltado a mulher de Iago, penetraram no quarto Graciano e os
+tres companheiros da embaixada, o traidor alferes, causa de toda essa
+espantosa tragedia, e, por ultimo, entraram varios soldados amparando
+nos braços Cassio, ferido e que havia exigido que o levassem a todo o
+transe á presença de Othello sem perda de um minuto, pois em breve
+morreria e queria fallar com o general antes de exhalar o ultimo
+suspiro.
+
+Ao vêr entrar tanta gente no aposento, e especialmente ao encontrar-se
+em presença do veneravel Graciano, tio de Desdemona, Othello retrocedeu
+instintivamente alguns passos e deixou em liberdade Emilia.
+
+Esta correu, como louca, para os recem-chegados, e gritou, rompendo em
+soluços:
+
+--Matou a minha ama, senhores, o infame matou-a!
+
+--Sim, confessou sombria e altivamente Othello, dirigindo um olhar de
+desafio a todos os presentes, matei-a, porque sou o unico juiz da minha
+honra e eu proprio sentenciei a culpada!
+
+--Mentira! gritou de novo Emilia. Senhores, não acrediteis! A infeliz
+Desdemona era tão pura e innocente como os anjos do céu, e levava a
+incomparavel bondade de sua alma até ao extremo de amar com todas as
+energias do seu coração o seu proprio verdugo!
+
+--Tu é que estás mentindo, infame impostora! rugiu Othello, que tremeu
+até ao mais intimo d'alma ao entrever a possibilidade da innocencia da
+esposa pela maneira convicta com que fallára a dama. E accrescentou
+tirando do bolso o lenço de seda, que guardava como prova accusadora:
+Atrever-te-has a negar que conheces esta prova do criminoso adulterio?
+Este lenço deu-o minha esposa ao amante, a esse infame Cassio, que o
+proprio inferno repelliu, pois que ainda o vejo aqui com vida!
+
+Ao ver o lenço, Emilia ficou convertida em estatua; pôz-se livida como
+um cadaver, as pupilas pareceram querer-lhe saltar das orbitas, e
+exclamou horrorisada:
+
+--O lenço de seda! O lenço que roubei a Desdemona!
+
+--Que roubaste?--exclamou Othello enlouquecido e julgando ter ouvido
+mal.--É mentira! Foi minha esposa que o deu a Cassio como prenda dos
+seus criminosos amores!
+
+--Proximo a entregar a alma a Deus interveio com debil e apagada voz o
+antigo official de Othello--Juro pela minha salvação que nunca vi
+semelhante lenço nas minhas mãos e que Desdemona te era tão fiel como
+póde ser a mulher mais pura do mundo!
+
+«Juro tambem, continuou fallando com grande custo,--que morro victima de
+um erro teu, general, e assassinado por ordem d'esse infame, que não se
+atrevendo a atacar-me, enviou um instrumento seu, o qual logrou enganar
+por meio de outra calumnia, e que, depois de ferir-me, acaba de morrer
+ás minhas mãos, confessando tudo! Juro, por ultimo, accrescentou Cassio,
+cada vez com voz mais debil,--que sempre te amei como a um pae, como ao
+morrer te quero ainda, e que Desdemona, tão innocente e pura como um
+anjo, não foi outra cousa para mim do que foi para toda a gente; um
+coração cheio de bondade e de doçura! Juro-o por tudo quanto existe de
+sagrado!...
+
+E o antigo tenente de Othello cahiu sem sentidos nos braços dos soldados
+que o amparavam.
+
+--E eu juro--exclamou por sua vez Emilia, encarando Othello, que
+permanecia atonito, como se tivesse recebido um profundo golpe; juro que
+esse homem disse a verdade, que minha ama era pura como um raio de sol e
+innocente como uma criança; que Cassio nunca teve em suas mãos esse
+lenço, e que fui eu que o roubei a Desdemona, obrigada a tal acto por
+meu marido e fazendo-o jurar que com elle não prejudicaria ninguem!
+Juro-o pela memoria de meus paes!
+
+Succedeu então uma cousa verdadeiramente horrivel.
+
+Iago, ao vêr o caminho que tomavam para elle as coisas, fôra
+approximando-se lentamente da porta para se escapulir sem ser visto.
+Mas, no momento em que Emilia se calou, Othello saltou sobre elle com a
+agilidade e a força de um leopardo, e arrancando-lhe a propria espada,
+enterrou-lh'a nas entranhas até aos copos. Em seguida, voltando-se para
+onde estava Graciano, e tirando o punhal que o velho senador trazia
+pendente do cinto cravou-o no proprio peito até ao cabo e cahiu sobre o
+leito em que jazia o cadaver de Desdemona, á qual deu a alma n'um beijo
+com o ultimo suspiro.
+
+A dupla acção do formidavel e ciumento mouro havia sido tão rapida, que
+quando os circumstantes, refeitos do assombro, quizeram intervir, já
+estava consumada a tragedia.
+
+FIM
+
+
+
+
+INDICE
+
+     Cap.                    Pag.
+     I--O rapto                5
+     II--Othello              19
+     III--Em Chypre           37
+     IV--O traidor            53
+     V--O lenço               67
+     VI--Os embaixadores      83
+     VII--Crime e castigo     97
+
+
+
+
+COLLECÇÃO
+
+SELECTA
+
+_Obras primas da litteratura mundial_
+
+Volumes de 250 a 350 paginas
+
+Formato commodo.
+Impressão cuidada, em bom papel
+Illustrações pelo processo
+de
+TRICHROMIA.
+Encadernações elegantes.
+
+1 volume por mez
+
+Preço 300 réis
+
+
+Empresa LUSITANA EDITORA
+
+Calçada do ferregial, 23, Lisboa
+
+
+TRABALHOS typographicos
+em todos os generos
+Especialidade em impressão
+a cores pelo processo da
+TRICHROMIA
+Jornaes, Revistas illustradas
+Minutas, Catalogos, etc. etc.
+ENCADERNAÇÔES em todos
+os generos
+
+Preços modicos
+
+
+Telephone n.º 1:302
